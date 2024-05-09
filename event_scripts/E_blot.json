@@ -1,0 +1,508 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|Welcome to our art gallery!",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_normal"],
+			"dialog"			: "Feel free to look around.",
+		}
+	],
+	
+	"gallery_level"	: "Gallery Level [VAL1]",
+	"total_tokens"	: "Total Blot Tokens Earned",
+	"list_title1"	: "Blot's Gifts",
+	"list_title2"	: "[NAME]'s Gifts",
+
+	"op_gallery"	: "Art Gallery",
+	"op_donate"		: "Donate Gifts",
+	"op_upgrade"	: "Upgrades",
+	"op_leave"		: "Leave",
+	
+	"op_gift_amount"	: "Gallery Size",
+	"op_gift_limit"		: "Trade Limit",
+	"op_donate_limit"	: "Backroom Size",
+	
+	"gallery_text"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+		"dialog"	: "Browse the art gallery!|L|We made some of this art ourselves, but we find most of it crumpled up on the floor.",
+	},
+	"donate_text"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+		"dialog"	: "Donate some of your gifts to the gallery!|L|We'll give you |C3|Blot Tokens|C0| and |C3|Karma.|C0|",
+	},
+	"upgrade_text"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_normal"],
+		"dialog"	: "We can use the power of |C3|Tetrids|C0| to improve the gallery!",
+	},
+	"leave_text"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+		"dialog"	: "Let us know when you are leaving, cutie.|L|You can save your tokens for next time!",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+		"dialog"	: "You have to leave already?",
+	},
+	
+	"comment_small_gallery"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+		"dialog"	: "Umm... there's not much in there yet, but we are trying our best.",
+	},
+	"comment_cant_donate"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+		"dialog"	: "Our life is a shambled mess and we have nowhere to put your donations right now.",
+	},
+	"comment_donate_limit"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_sad"],
+		"dialog"	: "Our backroom dimension can't fit any more donations today.",
+	},
+	"comment_token_limit"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+		"dialog"	: "You have a lot of |C3|Blot Tokens.|C0||L|Maybe you want to spend some of those, cutie?",
+	},
+	"comment_max_level"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+		"dialog"	: "Our art gallery is now perfect thanks to you, cutie!",
+	},
+	
+	
+	
+	"cost_line"		: "You can have it for |C3|[VAL1] Blot Tokens.|C0|",
+	"cost_line_1"	: "You can have it for |C3|1 Blot Token.|C0|",
+	"cost_line_0"	: "You can take it for free, cutie.",
+	"comment_free"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+		"dialog"	: "|wave|You can just take this one if you want it, cutie.",
+	},
+	"comment_unknown"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+		"dialog"	: "Uh... We don't remember this one.|L|[VAL1]",
+	},
+	"comment_blop"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+		"dialog"	: "Take a little piece of us with you, cutie!|L|[VAL1]",
+	},
+	"comment_painting1"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+		"dialog"	: "Wait, didn't you paint this one?|L||wave|Is that your girlfriend?|norm||L|[VAL1]",
+	},
+	"comment_painting2"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+		"dialog"	: "A cutie with colorless skin painted this one!|L||wave|We think it's her girlfriend.|norm||L|[VAL1]",
+	},
+	"comment_one"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_normal"],
+		"dialog"	: "There is such beauty in its simplicity.|L|[VAL1]",
+	},
+	"comment_two"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+		"dialog"	: "Such a lovely piece.|L|[VAL1]",
+	},
+	"comment_three"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+		"dialog"	: "|wave|This one is almost as cute as you!|norm||L|[VAL1]",
+	},
+	"comment_bonus"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_normal"],
+		"dialog"	: "A little something extra.|L|[VAL1]",
+	},
+	"comment_quick"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+		"dialog"	: "Enjoy this one while it lasts.|L|[VAL1]",
+	},
+	"comment_limit"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+		"dialog"	: "We don't think you have any room to carry this one, cutie.",
+	},
+	"comment_over"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_sad"],
+		"dialog"	: "Sorry cutie, we can't afford to give this one away right now.|L|You need |C3|[VAL2] Blot Tokens.|C0|",
+	},
+	"comment_over_1"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_sad"],
+		"dialog"	: "Sorry cutie, we can't afford to give this one away right now.|L|You need |C3|1 Blot Token.|C0|",
+	},
+	"comment_closed"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+		"dialog"	: "Sorry, cutie!|L|We can't let you take anymore today, but you can still look.",
+	},
+	"buy_confirm"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+		"dialog"	: "You want to take this piece?",
+	},
+	
+	"gift_bought" 		: [
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+			"random"			: 4,
+			"dialog_rand1"		: "|wave|This one is just for you, cutie.",
+			"dialog_rand2"		: "|wave|We knew you would like this one, cutie.",
+			"dialog_rand3"		: "We love the colors on this one!",
+			"dialog_rand4"		: "|wave|It's almost as cute as you are.",
+		}
+	],
+	
+	
+	
+	"donate_line"	: "We'll give you |C3|[VAL1] Blot Tokens|C0| and |C3|[VAL2] Karma|C0| for it.",
+	"donate_line_1"	: "We'll give you |C3|1 Blot Token|C0| and |C3|[VAL2] Karma|C0| for it.",
+	"comment_donate_normal"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_normal"],
+		"dialog"	: "We can accept this as a donation.|L|[VAL1]",
+	},
+	"comment_donate_art"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+		"dialog"	: "Oh, now this is art!|L|[VAL1]",
+	},
+	"comment_donate_special"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+		"dialog"	: "Oh, we were looking for that!|L|[VAL1]",
+	},
+	"comment_donate_I_painting"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+		"dialog"	: "|wave|We love this painting!|norm||L|[VAL1]",
+	},
+	"comment_donate_quick"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+		"dialog"	: "It seems to be stuck to you!|L|[VAL1]",
+	},
+	"comment_donate_blessing"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+		"dialog"	: "Sure, you can donate pure vibes!|L|[VAL1]",
+	},
+	"comment_donate_art_blessing"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+		"dialog"	: "You have an artistic idea, cutie?|L|[VAL1]",
+	},
+	"comment_donate_burden"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+		"dialog"	: "We could make really angsty art with this vibe, but we understand why you don't want to give it to us.",
+	},
+	"comment_donate_taken": {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+		"dialog"	: "You just got that from the gallery.",
+	},
+	"comment_donate_starter": {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+		"dialog"	: "We can't take this one from you, cutie.",
+	},
+	"donate_confirm"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+		"dialog"	: "You want to donate this to us?",
+	},
+	
+	"gift_donated" 		: [
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+			"random"			: 4,
+			"dialog_rand1"		: "|wave|Thanks for the donation, cutie.",
+			"dialog_rand2"		: "|wave|We love it so much!",
+			"dialog_rand3"		: "We can't believe you are just giving this to us!",
+			"dialog_rand4"		: "We will treasure this gift.",
+		}
+	],
+	"quick_donated" 		: [
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+			"dialog"			: "These fade away so quickly.|L||!||shake|We just had to have it!",
+		}
+	],
+	"TAG_blot_part_donated" 		: [
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|You literally complete us, cutie!",
+		}
+	],
+	
+	
+	
+	"comment_upgrade_size_small"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+		"dialog"	: "The gallery can only hold |C3|[VAL1] Gifts|C0| right now, but with some tetrids we can create room for one more.",
+	},
+	"comment_upgrade_size"			: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+		"dialog"	: "The gallery can hold |C3|[VAL1] Gifts|C0| now, but with some more tetrids we can create room for one more!",
+	},
+	"comment_upgrade_size_maxed"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+		"dialog"	: "The gallery can hold |C3|[VAL1] Gifts|C0| now!|L||wave|This is as good as it gets, cutie.",
+	},
+	
+	"comment_upgrade_limit_first"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_normal"],
+		"dialog"	: "We can only give you |C3|1 Gift|C0| per visit, but with some tetrids we can afford to part with another.",
+	},
+	"comment_upgrade_limit"			: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+		"dialog"	: "We can give you |C3|[VAL1] Gifts|C0| per visit, but with some more tetrids we can afford to part with another!",
+	},
+	"comment_upgrade_limit_maxed"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+		"dialog"	: "We can give you up to |C3|[VAL1] Gifts|C0| every time you visit!|L||wave|This is as good as it gets, cutie.",
+	},
+	
+	"comment_upgrade_donate_none"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+		"dialog"	: "Before we can accept any |C3|Gift donations,|C0| we will need some tetrids to create a place to store them.",
+	},
+	"comment_upgrade_donate_one"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_normal"],
+		"dialog"	: "We can only accept |C3|1 Donation|C0| per visit right now, but with some tetrids we can make room for another.",
+	},
+	"comment_upgrade_donate"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+		"dialog"	: "We can accept |C3|[VAL1] Donations|C0| per visit right now, but with some more tetrids we can make room for another!",
+	},
+	"comment_upgrade_donate_maxed"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+		"dialog"	: "We can accept |C3|[VAL1] Donations|C0| per visit!|L||wave|This is as good as it gets, cutie.",
+	},
+	
+	"comment_upgrade_fail"			: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_sad"],
+		"dialog"	: "We can't do anything about this until we get some more gift donations.|L|We're so sorry, cutie!",
+	},
+	
+	"upgrade_size" 			: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+			"dialog"			: "We can expand the gallery with these.",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+			"dialog"			: "We will have even more art next time you visit!",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+			"dialog"			: "|wave|All thanks to you, cutie!",
+		}
+	],
+	"upgrade_size_final" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+			"dialog"			: "We can expand the gallery with these.",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+			"dialog"			: "We won't possibly be able to fit any more art after this!",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+			"dialog"			: "We couldn't have done this without you, cutie!",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+			"dialog"			: "|wave|We love you!",
+		}
+	],
+	"upgrade_donation_first" : [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+			"dialog"			: "With this power, we can open a tear into the backroom dimension.",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|We actually have a place to put your donations now!",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+			"dialog"			: "Now we can really start trading some art!",
+		}
+	],
+	"upgrade_donation" 		: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+			"dialog"			: "With this power, we can hold more donations in the backroom dimension.",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+			"dialog"			: "You can now donate more gifts each time you visit!",
+		}
+	],
+	"upgrade_limit_to_2" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+			"dialog"			: "Those rainbow tetrids are so tasty!",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+			"dialog"			: "We can now let you take |C3|2 pieces of art|C0| every time you visit!",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+			"dialog"			: "It's only fair, cutie.|L||!|You have donated so much to our gallery.",
+		}
+	],
+	"upgrade_limit_to_3" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_normal"],
+			"dialog"			: "Oh, are we drooling?",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+			"dialog"			: "Sorry, cutie.|L|We just can't help it around those rainbow tetrids.",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+			"dialog"			: "We can now let you take up to |C3|3 pieces of art|C0| every time you visit!",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+			"dialog"			: "You have given us so much.|L||!|We hope all this art can empower you too.",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+			"dialog"			: "|wave|We love you, cutie!",
+		}
+	],
+	
+	"green_comment"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_aggressive"],
+		"dialog"	: "Don't tell the others, but this is our favorite tetrid.|L||C3|These give us the most power!",
+	},
+	"red_comment"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+		"dialog"	: "These ones smell like a campfire.",
+	},
+	"yellow_comment"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+		"dialog"	: "These don't taste very good.|L|We should probably stop eating them.",
+	},
+	"blue_comment"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_shocked"],
+		"dialog"	: "|shake|These hurt our skin!|norm||L|What a shame.|L|Blue is such a beautiful color.",
+	},
+	"orange_comment"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+		"dialog"	: "We can hear a little song coming from these.|L|Can you hear it?",
+	},
+	"purple_comment"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+		"dialog"	: "These feel so sad.|L|We will give them hugs.",
+	},
+	"radiant_comment"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+		"dialog"	: "|shake|We have a mighty need!",
+	},
+	"upgrade_confirm"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+		"dialog"	: "You want to give these to us, cutie?",
+	},
+	
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "I had such a lovely time here.",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+			"dialog"			: "We are so happy to hear that!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+			"dialog"			: "Oh you are so affectionate, cutie.|L||!||wave|We love you!",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|I love you!",
+		}
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+			"dialog"			: "We hope you had a lovely time.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
+			"dialog"			: "Of course we did.|L||!|I'm only sorry that the other guests mistook my beauty for a piece of artwork.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
+			"dialog"			: "But we are the only ones here.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "|wave|And yet, you couldn't keep your eyes off of me.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+			"dialog"			: "We are glad that you had a good time, cuties.",
+		}
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "Before we go, my sister really wanted you to paint her.",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+			"dialog"			: "Oh really, cutie?",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
+			"dialog"			: "I... guess so.",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|You are going to look so cute!",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_very_happy"],
+			"dialog"			: "She is!",
+		}
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
+			"random"			: 4,
+			"dialog_rand1"		: "I liked all the dark ones with the eyeballs.",
+			"dialog_rand2"		: "Some of those pieces were |shake|so metal!",
+			"dialog_rand3"		: "Did you see the one with the indescribable horror on it?",
+			"dialog_rand4"		: "I like the ones that look like my nightmares.",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_aggressive"],
+			"random"			: 4,
+			"dialog_rand1"		: "Yeah, and all the ones with those cute hearts!",
+			"dialog_rand2"		: "And how about that cute one with the pretty lady?",
+			"dialog_rand3"		: "Right? And the ones with all those colorful flowers!",
+			"dialog_rand4"		: "Did you see the one with the cute girl on it?",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_very_happy"],
+			"dialog"			: "Exactly!   You really get me.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+			"dialog"			: "|wave|We love you, cutie!",
+		}
+	],
+	
+	"leave_default" 	: [
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+			"dialog"			: "We hope you visit us again soon.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+			"dialog"			: "We love you, cutie!",
+		},
+	],
+
+}

@@ -1,0 +1,317 @@
+{
+	
+	"BNS_health_a" : {
+		"name"    : "Small Heal",
+		"memory"  : "There are monsters clawing at my heart.|L|They are tearing it apart.|L|I don't know how they got here,|L|I don't know what they want.|L|Did I do something wrong?",
+		"card"    : "Recover [VAL1]% health",
+	},
+	"BNS_health_b" : {
+		"name"    : "Half Heal",
+		"memory"  : "I need someone to help me,|L|Hold my heart while I fix it,|L|And keep the monsters away.|L|I will be okay.|L|I will be okay.",
+		"card"    : "Recover [VAL1]% health",
+	},
+	"BNS_health_c" : {
+		"name"    : "Full Heal",
+		"memory"  : "I can offer this embrace,|L|While you fix your broken heart.|L|I'll keep the monsters at bay.|L|You will be okay.|L|You will be okay.",
+		"card"    : "Recover [VAL1]% health",
+	},
+	"BNS_karma_a" : {
+		"name"    : "Single Wish",
+		"memory"  : "There are so many stars in the sky. Every one of those can have planets of their own. Some might even have the perfect conditions to sustain life, just like Eyeris.",
+		"card"    : "+[VAL1] karma",
+	},
+	"BNS_karma_b" : {
+		"name"    : "Double Wish",
+		"memory"  : "We've never heard from any other life up in the stars. Maybe we are the only ones who are able to communicate. Maybe they are trying to talk to us right now, but we just don't know how to listen to them.",
+		"card"    : "+[VAL1] karma",
+	},
+	"BNS_karma_c" : {
+		"name"    : "Triple Wish",
+		"memory"  : "There are places even further than the furthest star. Distances so vast that our simple three dimensional tools can't measure them. Or maybe they are right next to us in a direction we can't even comprehend.",
+		"card"    : "+[VAL1] karma",
+	},
+	"BNS_damage_a" : {
+		"name"    : "Overlove+",
+		"memory"  : "That wingless girl seems to love everything. She loves flowers. She loves colors. She loves the rain. She even loves mites! I even had to help her down from a tree because she wanted to pet a mite.",
+		"card"    : "All Damage +[VAL1]%",
+	},
+	"BNS_damage_b" : {
+		"name"    : "Overlove++",
+		"memory"  : "She told me that she even loves those awful monsters that lurk down there. I don't know how anyone could love one of those! She says that she just wants to give them a hug. I told her that she would give me a heart attack if she ever did something so dumb!",
+		"card"    : "All Damage +[VAL1]%",
+	},
+	"BNS_damage_c" : {
+		"name"    : "Overlove+++",
+		"memory"  : "She really just loves everything, and...|L||L|I think I love her.",
+		"card"    : "All Damage +[VAL1]%",
+	},
+	"BNS_scribble" : {
+		"name"    : "Scribble",
+		"memory"  : "No, don't look at that one. I was still just learning how to draw. It's embarrassing...|L||L|Okay, you can look.",
+		"card"    : "Crit. Rate +[VAL1]%",
+	},
+	"BNS_doodle" : {
+		"name"    : "Doodle",
+		"memory"  : "Why do we keep finding this crumpled up artwork down here? Are other artists ashamed of their work like us?|L||L|Impossible! Only the highest form of cutie could make something like this. Could someone else have told her this art was bad?|L||L|Unimaginable! This must have been an accident. Just a lot of happy accidents.",
+		"card"    : "Crit. Rate +[VAL1]%",
+	},
+	"BNS_scrawl" : {
+		"name"    : "Scrawl",
+		"memory"  : "|shake|I don't want to die|L|I don't want to die|L|I don't want to die|L|I don't want to die|L|I don't want to die|L|LEAVE US ALONE!",
+		"card"    : "Crit. Rate +[VAL1]%",
+	},
+	"BNS_glow_mark" : {
+		"name"    : "Glow Mark",
+		"memory"  : "Colors with a light nature:|L||C3||xai||den| (Xaiden) |C0|Brightness|L||C3||kah||den| (Kahden) |C0|Chrome|L||C3||ai||den| (Aiden) |C0|White",
+		"card"    : "Radiant Def. +[VAL1]",
+	},
+	"BNS_dark_mark" : {
+		"name"    : "Dark Mark",
+		"memory"  : "Colors with a dark nature:|L||C3||vai||den| (Vaiden) |C0|Purple|L||C3||ah||den| (Ahden) |C0|Blue|L||C3||nu||den| (Nuden) |C0|Pure dark",
+		"card"    : "Void Def. +[VAL1]",
+	},
+	"BNS_burn_mark" : {
+		"name"    : "Burn Mark",
+		"memory"  : "Colors with a warm nature:|L||C3||soh||den| (Soden) |C0|Red|L||C3||lin||den| (Linden) |C0|Orange|L||C3||lu||den| (Luden) |C0|Pink",
+		"card"    : "Burn Def. +[VAL1]",
+	},
+	"BNS_spark_mark" : {
+		"name"    : "Spark Mark",
+		"memory"  : "Colors with an energetic nature:|L||C3||yo||den| (Yoden) |C0|Yellow|L||C3||toh||den| (Tohden) |C0|Cyan|L||C3||ren||den| (Renden) |C0|Fuchsia",
+		"card"    : "Zap Def. +[VAL1]",
+	},
+	"BNS_toxic_mark" : {
+		"name"    : "Toxic Mark",
+		"memory"  : "Colors with a bland nature:|L||C3||tra||den| (Traden) |C0|Gray|L||C3||dra||den| (Draden) |C0|Brown|L||C3||ry||dra||den| (Rydraden) |C0|Murky",
+		"card"    : "Toxic Def. +[VAL1]",
+	},
+	"BNS_starlight" : {
+		"name"    : "Starlight",
+		"memory"  : "I wish I could put the light of the stars in a bottle. That way, I can still have some when it rains all night.",
+		"card"    : "Max Health +[VAL1]",
+	},
+	"BNS_moonlight" : {
+		"name"    : "Moonlight",
+		"memory"  : "I can see the moons every night.|L|For only a moment,|L|They peek through the cloudy sky.|L|I try to stay awake.|L|Then it's raining once again.",
+		"card"    : "Max Health +[VAL1]",
+	},
+	"BNS_sunlight" : {
+		"name"    : "Sunlight",
+		"memory"  : "I miss the sun.|L|When will it come back?",
+		"card"    : "Max Health +[VAL1]",
+	},
+	"BNS_battery" : {
+		"name"    : "Battery",
+		"memory"  : "When you flip |teh| it becomes |yo|, so this reads \"small battery\" any way you hold it.|L||L|I'm so good at words!",
+		"card"    : "Max Energy +[VAL1]",
+	},
+	
+	
+	
+	
+	"BNS_panic_a" : {
+		"name"    : "One Panic",
+		"memory"  : "There is just too much happening all at once.|L|I just need a moment,|L|For everything to silence,|L|For everything to back away,|L|Just a moment of peace.|L|Did I ask for too much?",
+		"card"    : "+[VAL1] Panic attack",
+	},
+	"BNS_panic_b" : {
+		"name"    : "Two Panics",
+		"memory"  : "I want it all to freeze.|L|Just give me a moment to breathe.|L|A temporary bubble to vent.|L|I will be okay.|L|I will be okay.",
+		"card"    : "+[VAL1] Panic attacks",
+	},
+	"BNS_panic_c" : {
+		"name"    : "Three Panics",
+		"memory"  : "Take a moment to breathe.|L|Take all the time you need.|L|I will be your bubble.|L|You will be okay.|L|You will be okay.",
+		"card"    : "+[VAL1] Panic attacks",
+	},
+	"BNS_vial_a" : {
+		"name"    : "Small Vial",
+		"memory"  : "Take a little sip and you will start to feel better.",
+		"card"    : "+[VAL1] reserve health that heals during battle",
+	},
+	"BNS_vial_b" : {
+		"name"    : "Half Vial",
+		"memory"  : "I put in nanomachines that will repair your heart from the inside.",
+		"card"    : "+[VAL1] reserve health that heals during battle",
+	},
+	"BNS_vial_c" : {
+		"name"    : "Full Vial",
+		"memory"  : "I lied. It's only some of that zesty drink. Placebo can be very powerful!",
+		"card"    : "+[VAL1] reserve health that heals during battle",
+	},
+	"BNS_glass_a" : {
+		"name"    : "Glass Heart",
+		"memory"  : "Glacia accidentally tore one of her petals. It turned to glass and shattered. I know they always grow back, but she looked so heartbroken.",
+		"card"    : "Take half damage on the next hit",
+	},
+	"BNS_glass_b" : {
+		"name"    : "Glass Duo",
+		"memory"  : "I think the Glass Flora can generate glass with sharp edges, but they never do. They always throw smooth glass pebbles at me when they are afraid. I don't think they ever intend to hurt anyone.",
+		"card"    : "Take half damage on the next [VAL1] hits",
+	},
+	"BNS_glass_c" : {
+		"name"    : "Glass Trio",
+		"memory"  : "Kiwi has started sculpting glass hearts and giving them to anyone that will take them. They must have gotten the idea from the Glyphs.",
+		"card"    : "Take half damage on the next [VAL1] hits",
+	},
+	"BNS_life_blood" : {
+		"name"    : "Life Blood",
+		"memory"  : "What has been fueling these Zaramech for so long? The sample I got feels strangely familiar.",
+		"card"    : "Survive one fatal hit",
+	},
+	"BNS_extra_blood" : {
+		"name"    : "Extra Blood",
+		"memory"  : "I didn't want to believe it, but the results don't lie. It's Zaraden blood...|L||L|But where is it coming from?",
+		"card"    : "Survive [VAL1] fatal hits",
+	},
+	"BNS_undo" : {
+		"name"    : "Undo",
+		"memory"  : "That one didn't count!",
+		"card"    : "Block the next hit",
+	},
+	"BNS_extra_undo" : {
+		"name"    : "Extra Undo",
+		"memory"  : "I don't think I deserve another chance.",
+		"card"    : "Block the next [VAL1] hits",
+	},
+	
+	
+	
+	
+	"BNS_green_a" : {
+		"name"    : "One Green",
+		"memory"  : "Green motes are said to be flakes that form in the heart of a Zaraden feeling embarrassment, guilt, or shame. I wonder how the Shambles ended up with so many of these.",
+		"card"    : "+1 Green tetrid",
+	},
+	"BNS_green_b" : {
+		"name"    : "Two Green",
+		"memory"  : "Shambles are very powerful beings that can warp time and space. The most powerful ones can tear a place to shreds just by existing. They can pull objects right out of the air. These objects are believed to be taken from an alternate timeline. Likewise, they can make anything vanish by presumably taking it to another universe.",
+		"card"    : "+2 Green tetrids",
+	},
+	"BNS_green_c" : {
+		"name"    : "Three Green",
+		"memory"  : "Weaker Shambles that can't simply tear a hole through walls are often seen avoiding invisible obstacles that either used to exist or might exist in the future. There are theories that Shambles are actually four dimensional creatures. We can only see a small fraction of their true forms.",
+		"card"    : "+3 Green tetrids",
+	},
+	"BNS_red_a" : {
+		"name"    : "One Red",
+		"memory"  : "Red motes are said to be flakes that form in the heart of a Zaraden feeling anger or frustration. The Guardians have so many of these. I hope they don't feel that way all the time.",
+		"card"    : "+1 Red tetrid",
+	},
+	"BNS_red_b" : {
+		"name"    : "Two Red",
+		"memory"  : "Eyeris has a wide variety of strange creatures, but the most peculiar are the Guardians. Every living species has at least one member that is much larger and features remarkable mutations. They are called Guardians due to the fact that they will guard specific areas for completely unknown reasons.",
+		"card"    : "+2 Red tetrids",
+	},
+	"BNS_red_c" : {
+		"name"    : "Three Red",
+		"memory"  : "Guardians will always guard very specific areas known as Guardian Zones. As soon as an animal begins to mutate into a Guardian, it will head straight towards the nearest Guardian Zone. They completely ignore their own species' usual habits and instincts as if they had been completely overwritten by the mutation.",
+		"card"    : "+3 Red tetrids",
+	},
+	"BNS_yellow_a" : {
+		"name"    : "One Yellow",
+		"memory"  : "Yellow motes are said to be flakes that form in the heart of a Zaraden who refuses to accept an awful reality. Eyeric Glyph monsters are just words. Why would they have these motes?",
+		"card"    : "+1 Yellow tetrid",
+	},
+	"BNS_yellow_b" : {
+		"name"    : "Two Yellow",
+		"memory"  : "The Eyeric Glyph creatures are rare beings that take on the appearance of a symbol in our own written language. They embody the literal meaning of the symbol they take the form of. The theory is that they must understand our language since they were discovered long after the symbols had been created.",
+		"card"    : "+2 Yellow tetrids",
+	},
+	"BNS_yellow_c" : {
+		"name"    : "Three Yellow",
+		"memory"  : "The behavior of an Eyeric Glyph is unpredictable. They have been known to hold perfectly still for days at a time only to shift around at impossible speeds right after. Not much is known about them other than they will attack any Zaraden near them. Did we accidentally create them? Are they angry at us?",
+		"card"    : "+3 Yellow tetrids",
+	},
+	"BNS_blue_a" : {
+		"name"    : "One Blue",
+		"memory"  : "Blue motes are said to be flakes that form in the heart of a Zaraden feeling stress or anxiety. The Zaramechs have so many of these, but they seem to be perfectly calm all the time.",
+		"card"    : "+1 Blue tetrid",
+	},
+	"BNS_blue_b" : {
+		"name"    : "Two Blue",
+		"memory"  : "Zaramechs are machines built long ago for some unknown purpose. They roam around with no clear intent, but they do occasionally attack seemingly random targets. The only sure thing is that they will attack any Veyerals on sight and even chase them down until their target is destroyed.",
+		"card"    : "+2 Blue tetrids",
+	},
+	"BNS_blue_c" : {
+		"name"    : "Three Blue",
+		"memory"  : "Zaramechs have a tendency to attack predators of endangered species. This would suggest that they may have been some sort of wildlife preservation devices, but there have been strange cases where they eliminate all life within a small perimeter.",
+		"card"    : "+3 Blue tetrids",
+	},
+	"BNS_orange_a" : {
+		"name"    : "One Orange",
+		"memory"  : "Orange motes are said to be flakes that form in the heart of a Zaraden feeling unstable or insecure. The Glass Flora are so strong and yet so fragile. They must feel insecurity, but do they even have a heart to form motes with?",
+		"card"    : "+1 Orange tetrid",
+	},
+	"BNS_orange_b" : {
+		"name"    : "Two Orange",
+		"memory"  : "Glass Flora are strange plants that grow all throughout the world. They are almost indistinguishable from regular plants. They even feel exactly like a normal plant would. That is, until you remove a piece. Any part severed from the main body of a Glass Flora will instantly harden into glass.",
+		"card"    : "+2 Orange tetrids",
+	},
+	"BNS_orange_c" : {
+		"name"    : "Three Orange",
+		"memory"  : "Unlike most regular plants, all Glass Flora will grow eyeballs. These eyeballs, usually found inside of blooming flowers, are the only non-glass part of the creature. Their roots are used for movement rather than absorbing nutrients. Oddly enough, they absorb sunlight and water through their eyeballs instead.",
+		"card"    : "+3 Orange tetrids",
+	},
+	"BNS_purple_a" : {
+		"name"    : "One Purple",
+		"memory"  : "Purple motes are said to be flakes that form in the heart of a Zaraden feeling loneliness. Veyerals always carry these motes. Are they the cause of loneliness or just drawn to it?",
+		"card"    : "+1 Purple tetrid",
+	},
+	"BNS_purple_b" : {
+		"name"    : "Two Purple",
+		"memory"  : "Veyerals are creatures from the void. They are attracted to feelings of loneliness and they infect any life that they come across. Those that have been infected are driven mad by extreme loneliness until the Veyerals completely take over their mind.",
+		"card"    : "+2 Purple tetrids",
+	},
+	"BNS_purple_c" : {
+		"name"    : "Three Purple",
+		"memory"  : "All Veyerals seem to have the same goal, not to take a life, but to convince a life to end itself. They die along with their host. Is that really what they want?",
+		"card"    : "+3 Purple tetrids",
+	},
+	"BNS_green_orange" : {
+		"name"    : "Green Orange",
+		"memory"  : "The green ones feel sticky even though they don't actually stick to my skin.|L||L|The orange ones feel slippery. Like they could slip out of my hands at any moment, but they don't.",
+		"card"    : "+1 Green tetrid|L|+1 Orange tetrid",
+	},
+	"BNS_blue_red" : {
+		"name"    : "Blue Red",
+		"memory"  : "The red ones are just slightly warm to the touch.|L||L|The blue ones didn't seem to do anything at first, but nothing could prepare me for the most terrifying sound I've ever heard. If a blue tetrid even touches my antennae... I don't think there are words to describe it.",
+		"card"    : "+1 Blue tetrid|L|+1 Red tetrid",
+	},
+	"BNS_purple_yellow" : {
+		"name"    : "Purple Yellow",
+		"memory"  : "Yellow ones feel at least twice as heavy as the other colors.|L||L|Then there's the purple ones... They smell just like her. I wish I never tried this.|L|I miss her.",
+		"card"    : "+1 Purple tetrid|L|+1 Yellow tetrid",
+	},
+	"BNS_cool_tetrids" : {
+		"name"    : "Cool Tetrids",
+		"memory"  : "Each color of tetrid affects every Zaraden differently. They can affect the sense of touch, taste, smell, or hearing with varying intensity. The effects are usually harmless, but it is possible to experience excruciating amounts of pain by simply touching them.",
+		"card"    : "+1 Green tetrid|L|+1 Blue tetrid|L|+1 Purple tetrid",
+	},
+	"BNS_warm_tetrids" : {
+		"name"    : "Warm Tetrids",
+		"memory"  : "The effects of tetrids on Zaraden seem to follow their personality in some way. For example, an easily frustrated Zaraden might feel extreme heat or loud noises from red tetrids.|L||L|It can be fun to learn how they affect you, but it can also be very dangerous. They can be physically and mentally damaging. I know from experience.",
+		"card"    : "+1 Red tetrid|L|+1 Yellow tetrid|L|+1 Orange tetrid",
+	},
+	"BNS_mote_swirl" : {
+		"name"    : "Mote Swirl",
+		"memory"  : "|ry||den||-||vai||lu| Shame|L||soh||den||-||vai||lu| Frustration|L||yo||den||-||vai||lu| Denial|L||ah||den||-||vai||lu| Anxiety|L||lin||den||-||vai||lu| Insecurity|L||vai||den||-||vai||lu| Loneliness",
+		"card"    : "Half a tetrid of each color",
+	},
+	"BNS_radiant_a" : {
+		"name"    : "Radiant Part",
+		"memory"  : "So this is how it's done?|L|This is what powers our whole world-",
+		"card"    : "A piece of a radiant tetrid",
+	},
+	"BNS_radiant_b" : {
+		"name"    : "Half Radiant",
+		"memory"  : "-and they want me to help with THIS?!",
+		"card"    : "Half of a radiant tetrid",
+	},
+	"BNS_radiant_c" : {
+		"name"    : "Full Radiant",
+		"memory"  : "They know that I'm a wingless, but I guess I'm one of the \"useful ones.\"|L||L|I don't know what to do...",
+		"card"    : "A full radiant tetrid",
+	},
+
+}

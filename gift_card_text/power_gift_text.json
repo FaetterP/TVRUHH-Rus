@@ -1,0 +1,1141 @@
+{
+	
+	"I_lovely_hearts" : {
+		"name"    : "Lovely Hearts",
+		"memory"  : "If we could see love, what would it look like? I imagine hundreds of hearts flowing from one Zaraden to another. It would form an endless web of hearts flowing between everyone. But I have to wonder... would I be linked to it?",
+		"card"    : "Heart Shots!",
+	},
+	"I_tiny_wings" : {
+		"name"    : "Tiny Wings",
+		"memory"  : "As I look up to the sky,|L|I wish I knew just how to fly.|L|Tiny wings,|L|Little things.|L|I look up from where I sit,|L|I belong in this here pit.",
+		"card"    : "Feather Shots!",
+	},
+	"I_starry_night" : {
+		"name"    : "Starry Night",
+		"memory"  : "The stars fly higher than any Zaraden could ever reach. I can't fly like other Zaraden, but... why did they leave me down here?",
+		"card"    : "Star Shots!|L|Don't move to shoot faster",
+	},
+	
+	
+	
+	
+	"I_small_mushroom" : {
+		"name"    : "Small Mushroom",
+		"memory"  : "This little glowing mushroom grows in all the caves around here. They are very tasty and fill me with so much energy. After eating one, I can see my veins glowing the same color for a little while.",
+		"card"    : "Max Health +[VAL1]|L|All Damage +[VAL3]%",
+	},
+	"I_orb_mushroom" : {
+		"name"    : "Orb Mushroom",
+		"memory"  : "These are so cute! They look like a little spring.|L||L|I can't tell you how many times a quick mite has snatched one of these right out of my hands. They must really love these mushrooms.",
+		"card"    : "Max Health +[VAL1]|L|Movement +[VAL3]",
+	},
+	"I_flat_mushroom" : {
+		"name"    : "Flat Mushroom",
+		"memory"  : "These are very tasty, but I can't bring myself to pick them anymore. They shelter so many little mites from the rain. I can't take that away from them!",
+		"card"    : "Max Health +[VAL1]|L|Crit. Rate +[VAL3]%",
+	},
+	"I_quick_mite" : {
+		"name"    : "Quick Mite",
+		"memory"  : "These quick little bugs run so fast and try so hard to stay out of sight. I actually thought they were just a blur until I finally saw one standing still. It vanished the instant it saw me.",
+		"card"    : "Movement +[VAL1]",
+	},
+	"I_fang" : {
+		"name"    : "Fang",
+		"memory"  : "By the time your last baby fang falls out, you should be able to fly, but I could not...",
+		"card"    : "All Damage +[VAL1]%",
+	},
+	"I_glass_fang" : {
+		"name"    : "Glass Fang",
+		"memory"  : "Ouch!|L|Did I just step on a Glass Flora thorn?|L||L|Hmm... This looks more like a tooth!",
+		"card"    : "Crit. Rate +[VAL1]%|L|+1 Glass heart",
+	},
+	"I_star_flower" : {
+		"name"    : "Star Flower",
+		"memory"  : "Do you want to look at the stars with me?|L||L|Excellent! I'll sneak my way back down here later tonight! I just saw a place with a perfect view.|L||L|I have a book with all the ancient constellations in it. Let's see how many we can find!",
+		"card"    : "Radiant Def. +[VAL1]|L|All Dmg. +[VAL2]% per Radiant Def.",
+	},
+	"I_crescent" : {
+		"name"    : "Crescent",
+		"memory"  : "The crescent shape and void have been synonymous ever since this constellation was named. See how the gap in the crescent has no stars shining through it? It's the largest area with no stars in the whole sky. It's unnerving to think about how much empty space that is.",
+		"card"    : "Void Def. +[VAL1]|L|All Damage +[VAL2]% per Void Def.",
+	},
+	"I_magma_worm" : {
+		"name"    : "Magma Worm",
+		"memory"  : "As the legend goes, a giant magma worm would flail violently deep inside of Mount Retina. This would cause all the earthquakes in the days leading up to an eruption of the volcano.|L||L|It hasn't erupted for over a hundred years, but I remember my mother told me that when she was little, she heard the same blast twice from right here! The sound went around the whole planet twice!",
+		"card"    : "Burn Def. +[VAL1]|L|All Damage +[VAL2]% per Burn Def.",
+	},
+	"I_sky_guardian" : {
+		"name"    : "Sky Guardian",
+		"memory"  : "That one was supposedly the source of lightning during a storm. Rayo the Sky Guardian would hide in the clouds and shoot lightning from her tail. The thunder was the sound of her wings flapping, so you would hate her!|L||L|Hehehe, I know you could never hate anything.",
+		"card"    : "Zap Def. +[VAL1]|L|All Damage +[VAL2]% per Zap Def.",
+	},
+	"I_hydra_plant" : {
+		"name"    : "Hydra Plant",
+		"memory"  : "This one was said to be a massive hydra plant that lived on the Hyren continent. She was able to extend her body hundreds of liradra into the sky, but that's probably exaggerated. She is supposedly the mother of all the hydra plants in the world today.|L||L|If you think the trees are tall here, you should see the ones on Hyren!|L|Hmm, maybe her height was accurate.",
+		"card"    : "Toxic Def. +[VAL1]|L|All Damage +[VAL2]% per Toxic Def.",
+	},
+	"I_self_glyph" : {
+		"name"    : "Self Glyph",
+		"memory"  : "|C3||za||ai| (Zai) |C0|Her|L||C3||ai||la| (Aila) |C0|Eyeball|L||C3||ai||ris| (Eyeris) |C0|Beautiful Sight|L||C3||ai||ai| (Ayai) |C0|Awake|L||C3||vai||ai| (Vayai) |C0|Asleep",
+		"card"    : "Bigger Critical Bubbles|L|Crit. Rate +[VAL2]%",
+	},
+	"I_big_mushroom" : {
+		"name"    : "Big Mushroom",
+		"memory"  : "These mushrooms are amazing, but very rare. Just one bite and I feel twice as tall!|L||L|Imagine the hugs that I could give!",
+		"card"    : "Max Health +[VAL1]|L|All Damage +[VAL3]%|L|Bigger shots",
+	},
+	"I_thin_mushroom" : {
+		"name"    : "Thin Mushroom",
+		"memory"  : "These are very tasty, but no matter how many you eat, you will never feel full.",
+		"card"    : "Max Health +[VAL1]|L|Without Heal|L|Combo timer up",
+	},
+	"I_halo" : {
+		"name"    : "Halo",
+		"memory"  : "I'm so lucky my sister comes down to see me so often. Even if she has to do it in secret, she still makes time for me.",
+		"card"    : "Powerful Critical Shots|L|Crit. Rate +[VAL4]%",
+	},
+	"I_saw_bloom" : {
+		"name"    : "Saw Bloom",
+		"memory"  : "Meerstalks are segmented reptiles that live all throughout The Pit. They are normally docile creatures, but not the Guardian meerstalk. She uses this rare and dangerous flower as a weapon and she has quite the temper. Her name is Roundsaw for a reason.",
+		"card"    : "All Damage +[VAL1]%",
+	},
+	"I_determination" : {
+		"name"    : "Determination",
+		"memory"  : "I've heard that if you just YELL as loud as possible for as long as possible, then you will get stronger. Through sheer willpower alone, you can do absolutely anything! You can even change the COLOR of your HAIR!",
+		"card"    : "All Damage +[VAL1]% per Defense unit|L|(Minimum +25%)",
+	},
+	
+	
+	
+	
+	"I_painting" : {
+		"name"    : "Painting",
+		"memory"  : "I saw that quirky wingless girl again. She loves to paint things, so I asked her if she would make a painting of me.|L|...I'm really glad I met her when I did.|L||L|Oh no! How am I going to explain where I got this? I don't want to hide it!",
+		"card"    : "Survive a fatal hit once per battle",
+	},
+	"I_nothing" : {
+		"name"    : "Nothing",
+		"memory"  : "It's the thought that counts...",
+		"card"    : "Combo timer up",
+	},
+	"I_bandage" : {
+		"name"    : "Bandage",
+		"memory"  : "Just keep it held together. That's the best you can do. Don't let the cracks get any bigger.",
+		"card"    : "Longer immunity after a hit|L|Heal [VAL2]%",
+	},
+	"I_fear_sense" : {
+		"name"    : "Fear Sense",
+		"memory"  : "They always told me to be afraid of the monsters. Monsters are evil creatures that will kill us if they get the chance. But this shows me that they are actually afraid of us. Their base level fear of us absolutely dwarfs a Zaraden's capacity to even experience fear!",
+		"card"    : "Display fear and reveal an extra monster",
+	},
+	"I_plant_glyph" : {
+		"name"    : "Plant Glyph",
+		"memory"  : "|C3||hai||ah| (Hiya) |C0|Drink|L||C3||hai||dra| (Hydra) |C0|Rise|L||C3||hai||ren| (Hyren) |C0|Flower|L||C3||hai||ral| (Hyral) |C0|Spread|L||C3||ze||hai| (Zehai) |C0|Measure",
+		"card"    : "Toxic aura after some time in battle",
+	},
+	"I_spark_thorns" : {
+		"name"    : "Spark Thorns",
+		"memory"  : "Vitrea was so excited about one of my paintings. She went on about some numbers where the ratio between them was equal to the ratio between their sum and the bigger number. I have no idea what she's talking about, but I'm just happy that something I painted can get her to be so enthusiastic.",
+		"card"    : "Emit a Zap aura while in focus",
+	},
+	"I_glass_petal" : {
+		"name"    : "Glass Petal",
+		"memory"  : "I found such a lovely flower petal on the ground. I picked it up thinking that it would be soft and smooth, but it had a sharp crack on it. I dropped it after it cut my finger and it shattered on the ground. Every piece had lost its beautiful color.",
+		"card"    : "All Damage +20% until you are hurt|L|(Reset per battle)",
+	},
+	"I_the_world" : {
+		"name"    : "The World",
+		"memory"  : "She taught me that Eyeris was the name of our planet. We live on the Iiry continent. There are actually 4 other continents across the ocean and we can't see them from here because the world is round like a ball! She says that there is a mountain on the continent of Retina that is so tall, you can actually see it from the top of the towers! I wish I could see it.",
+		"card"    : "Combo timer up|L|Full combos heal [VAL2] hp",
+	},
+	"I_boundless" : {
+		"name"    : "Boundless",
+		"memory"  : "If there are really an infinite number of universes, then everything that you have ever imagined must actually exist somewhere among them!|L||L|I'd sure hate to live there.",
+		"card"    : "You can warp across the screen",
+	},
+	"I_link_synapse" : {
+		"name"    : "Link Synapse",
+		"memory"  : "Link Synapses are relatively weak. They only work in one direction and they are confined to a single timeline thread. Still, a Shamble with this power can send objects to any point in time and space causing duplicate instances to exist. Some Shambles can even decide, retroactively, that they never actually sent an object through the synapse. That instance of the object is erased from existence, but the original will always remain.",
+		"card"    : "Your shots warp back around",
+	},
+	"I_little_sister" : {
+		"name"    : "Little Sister",
+		"memory"  : "I found two groups of stars that each make the shape of a heart. One is smaller than the other and they are right next to each other. I named them Little Sister and Big Sister.|L||L|I wonder if I have any sisters.",
+		"card"    : "Regenerate health if below 8 hp",
+	},
+	"I_revita_heart" : {
+		"name"    : "Revita Heart",
+		"memory"  : "You've been through so much pain, but now look at all that you've gained!",
+		"card"    : "Heal and gain temporary power when hurt",
+	},
+	"I_denial" : {
+		"name"    : "Denial",
+		"memory"  : "Those glyphy girls are just words. They can't possibly hurt me! I mean, how could they? Just a bunch of silly words.",
+		"card"    : "Block the first hit each battle",
+	},
+	"I_anxiety" : {
+		"name"    : "Anxiety",
+		"memory"  : "I don't know why these machines were built. Their programming is incredibly difficult to decipher. All I know for sure is that they were left down here after the towers were built so long ago.",
+		"card"    : "All Damage +75% if you are at low health",
+	},
+	"I_insecurity" : {
+		"name"    : "Insecurity",
+		"memory"  : "Those flowers are so fragile. For every chip or crack they endure, they become even easier to break the next time.|L||L|It's nothing a little love and care can't fix.",
+		"card"    : "All Damage +25% after being hurt|L|(Reset per battle)",
+	},
+	"I_loneliness" : {
+		"name"    : "Loneliness",
+		"memory"  : "They knew I was alone. I still remember all those eyes staring at me. They knew I was defective!",
+		"card"    : "Void aura after being hurt",
+	},
+	"I_big_sister" : {
+		"name"    : "Big Sister",
+		"memory"  : "I have not seen the starry sisters in a long time. I haven't even seen any stars in a long time. I miss them so much.",
+		"card"    : "Health and combo shields will regenerate",
+	},
+	"I_self_portrait" : {
+		"name"    : "Self Portrait",
+		"memory"  : "Her pale body is like a blank canvas. We want to slather her with paint. We just want to envelop her entire being with our colors.|L||L|That cutie makes us feel so beautiful. We just want to return the favor.",
+		"card"    : "Survive [VAL1] fatal hits per battle!|L|All Damage +[VAL3]%",
+	},
+	"I_second_form" : {
+		"name"    : "Second Form",
+		"memory"  : "And when you think that you've finally got me, I'll just get up again. I'll be stronger than ever before!|L||L|Every! Single! Time!",
+		"card"    : "Heartbreak brings great power",
+	},
+	
+	
+	
+	
+	"I_zesty_drink" : {
+		"name"    : "Zesty Drink",
+		"memory"  : "I love this drink! I don't know what it is, but it makes me feel like I could really fly all on my own!",
+		"card"    : "Heal [VAL1] HP after every battle",
+	},
+	"I_lucky_flower" : {
+		"name"    : "Lucky Flower",
+		"memory"  : "I love these flowers!|L|They glow in the dark so I can always find them at night. I can use the glowing liquid from the stem to light up my home. The petals come in all colors and they can be used to create beautiful paint.",
+		"card"    : "+[VAL1] Karma|L|+[VAL2] Karma after every battle",
+	},
+	"I_super_zesty" : {
+		"name"    : "Super Zesty",
+		"memory"  : "Of all the things I miss from my life up there, I think I miss this drink the most. It makes me feel like I could rip out the heart of my enemies, hold their still beating heart in front of their own eyes, and then just give it all the love and attention that it deserves!|L|Yeah! It's pretty good.",
+		"card"    : "Heal [VAL1] HP after every battle|L|All Damage +[VAL3]%",
+	},
+	"I_blue_zest" : {
+		"name"    : "Blue Zest",
+		"memory"  : "One of the best things I've ever tasted! If blue had a flavor, this would be it.",
+		"card"    : "Gain [VAL1] reserve health after every battle",
+	},
+	"I_twin_flowers" : {
+		"name"    : "Twin Flowers",
+		"memory"  : "We found these two glowy flowers right next to each other. They were the same colors as both of our hair.|L|We made that into our special place. No monsters would ever find us there, but I think she was dealing with a completely different kind of monster.",
+		"card"    : "+[VAL1] Karma|L|+[VAL2] Karma after every battle",
+	},
+	"I_dread" : {
+		"name"    : "Dread",
+		"memory"  : "I know that feeling will be back,|L|I never know when it will be,|L|It strikes so suddenly,|L|It cannot be controlled,|L|I dread it every moment.|L||L|The monster no one else can see,|L|Until I show it to them.",
+		"card"    : "Gain a panic after every battle",
+	},
+	"I_drip_paint" : {
+		"name"    : "Drip Paint",
+		"memory"  : "And this one, I painted with my own blood.|L||L|Just kidding!|L|...Or am I?|L||L|Nah, it's actually your blood.|L||L|(She's laughing at my jokes!)",
+		"card"    : "Max Health +[VAL1] after every battle",
+	},
+	"I_color_glyph" : {
+		"name"    : "Color Glyph",
+		"memory"  : "|C3||den| (Den)|C0||L|My favorite glyph. It means colors and I love colors. Just attach any glyphs and you get a different color. I wonder if words change the way we see colors or if colors change the way that we think of words.",
+		"card"    : "All Damage +[VAL1]% after every battle",
+	},
+	"I_masterpiece" : {
+		"name"    : "Masterpiece",
+		"memory"  : "Chaos is flawless.|L|There is no way to find a flaw in chaos, so go ahead and embrace it!",
+		"card"    : "Random bonus effect after every battle",
+	},
+	"I_shame" : {
+		"name"    : "Shame",
+		"memory"  : "We're not real. We're a liar!",
+		"card"    : "Max Health +2 after being hurt|L|(Once per battle)",
+	},
+	"I_frustration" : {
+		"name"    : "Frustration",
+		"memory"  : "I'm really starting to like those Guardians. They want to evolve beyond the limits of their own kind, so they become huge monsters ready to fight anything in their way! Ha, they are tough like me!",
+		"card"    : "Power grows every time you get hurt",
+	},
+	"I_heart_key" : {
+		"name"    : "Heart Key",
+		"memory"  : "I want to tell you things. I want to give you things. But it is so difficult for me to be sincere.|L|It's terrifying to feel so vulnerable, so I lock up my true feelings and throw away the key.",
+		"card"    : "All challenges are simple and give extra power",
+	},
+	"I_adamant_will" : {
+		"name"    : "Adamant Will",
+		"memory"  : "You think it's that easy to break me? I'll use whatever makeshift parts needed to put myself back together! You can't stop me!",
+		"card"    : "Heal [VAL1] HP after every battle",
+	},
+	
+	
+	
+	
+	"I_heart_candy" : {
+		"name"    : "Heart Candy",
+		"memory"  : "It was the sweetest thing I ever tasted! She brought me one every time she came to see me. She asked me if I wanted a whole bag, but I said no. I wanted to keep them special. Only one for every time I saw her.",
+		"card"    : "Max Health +[VAL1]|L|Heal [VAL2]%",
+	},
+	"I_love_paint" : {
+		"name"    : "Love Paint",
+		"memory"  : "These colors radiate light right off the page! They want to share that light with your eyes.",
+		"card"    : "Radiant Def. +[VAL1]|L|Heal [VAL2]%",
+	},
+	"I_dark_paint" : {
+		"name"    : "Dark Paint",
+		"memory"  : "These colors keep most of the light to themselves. They must be very lonely.",
+		"card"    : "Void Def. +[VAL1]|L|Heal [VAL2]%",
+	},
+	"I_warm_paint" : {
+		"name"    : "Warm Paint",
+		"memory"  : "These colors seem to make the page feel warmer.",
+		"card"    : "Burn Def. +[VAL1]|L|Heal [VAL2]%",
+	},
+	"I_bright_paint" : {
+		"name"    : "Bright Paint",
+		"memory"  : "Together, these colors seem to glow brighter.",
+		"card"    : "Zap Def. +[VAL1]|L|Heal [VAL2]%",
+	},
+	"I_murky_paint" : {
+		"name"    : "Murky Paint",
+		"memory"  : "Most Zaraden don't like these dull colors. I think they need love too.",
+		"card"    : "Toxic Def. +[VAL1]|L|Heal [VAL2]%",
+	},
+	"I_lovely_art" : {
+		"name"    : "Lovely Art",
+		"memory"  : "|C3||lu| (Lu) |nah| (Nah)|C0||L|Oh, that's lovely!",
+		"card"    : "Radiant Def. +[VAL1]|L|Max Health +[VAL2]",
+	},
+	"I_dark_art" : {
+		"name"    : "Dark Art",
+		"memory"  : "|C3||nu| (Nu) |xai| (Xai)|C0||L|That's darkness.",
+		"card"    : "Void Def. +[VAL1]|L|Max Health +[VAL2]",
+	},
+	"I_warm_art" : {
+		"name"    : "Warm Art",
+		"memory"  : "What was this first one again?|L|Oh!|L||C3||teh| (Teh) |soh| (Soh)|C0||L|That's warmth!",
+		"card"    : "Burn Def. +[VAL1]|L|Max Health +[VAL2]",
+	},
+	"I_bright_art" : {
+		"name"    : "Bright Art",
+		"memory"  : "|C3||yo| (Yo) |xai| (Xai)|C0||L|That's illuminating!",
+		"card"    : "Zap Def. +[VAL1]|L|Max Health +[VAL2]",
+	},
+	"I_gloomy_art" : {
+		"name"    : "Gloomy Art",
+		"memory"  : "I'm ready for this one!|L||C3||nu| (Nu) |teh| (Teh) |den| (Den)|C0||L|Gloom? I don't know that word.",
+		"card"    : "Toxic Def. +[VAL1]|L|Max Health +[VAL2]",
+	},
+	"I_glass_glyph" : {
+		"name"    : "Glass Glyph",
+		"memory"  : "|C3||li||den| (Liden) |C0|Clear|L||C3||li||hai| (Lihai) |C0|Glass Flora|L||C3||ze||ai||li| (Zeali) |C0|Shy|L||C3||rah||li| (Rahli) |C0|Danger|L|",
+		"card"    : "Start with a glass heart if any HP is missing",
+	},
+	"I_metal_glyph" : {
+		"name"    : "Metal Glyph",
+		"memory"  : "|C3||kah| (Kah)|C0||L|Oh yes, bring on the metal!|L||C3||sin||kah||-||sin||lin| (Synkah Synlin)|C0||L|That's heavy metal music, baby!|L|Oh yeah, I'll teach you more words.|L||C3||kah||yo||ren| (kayoren) |C0|Wire|L||C3||sin||la||kah| (Sinlakah) |C0|Drum|L||C3||ah||soh||kah| (Ahsokah) |C0|Engine",
+		"card"    : "Full combos give you a shield|L|All defense +[VAL2]",
+	},
+	"I_body_glyph" : {
+		"name"    : "Body Glyph",
+		"memory"  : "This one has so many uses. Attach it to other glyphs to get feelings, emotions, or verbs.|L||C3||soh||ze| (Sohze) |C0|Anger|L||C3||ze||soh| (Zeesoh) |C0|To burn|L||C3||xai||ze| (Xaize) |C0|Joy|L||C3||ze||xai| (Zexai) |C0|To lighten|L||C3||ze||lu| (Zeelu) |C0|Fall in love|L||C3||ze||ris| (Zeris) |C0|To fly",
+		"card"    : "Survive [VAL1] fatal hits with 1 hp|L|Max Health +[VAL3]",
+	},
+	"I_transfusion" : {
+		"name"    : "Transfusion",
+		"memory"  : "Our hearts are linked together.|L|It's keeping me alive.|L|But I'm so very scared,|L|If they become detached,|L|Can I even survive?",
+		"card"    : "Max Health +[VAL1]|L|Fully Heal",
+	},
+	"I_heart_cookie" : {
+		"name"    : "Heart Cookie",
+		"memory"  : "On very rare occasions, she would bring me one of these cookies. She said that she made them herself. I would joke that I would help her make the next batch, but deep down I knew... I would never be allowed up there.",
+		"card"    : "Max Health +[VAL1]|L|Heal [VAL2]%",
+	},
+	"I_suture" : {
+		"name"    : "Suture",
+		"memory"  : "I wish I wasn't so used to fixing this broken heart. I'm very good at it now, but it feels more and more hollow each time.|L||L|I know it will get better.",
+		"card"    : "Max Health +[VAL1]|L|Without Heal",
+	},
+	"I_blot_of_paint" : {
+		"name"    : "Blot of Paint",
+		"memory"  : "We love our new colors.|L|We love them so much.|L|Why were we afraid to show them?|L|Why did we keep them a secret?|L|No more!|L|Everyone deserves the colors!",
+		"card"    : "All defenses +[VAL1]|L|Heal [VAL6]%",
+	},
+	"I_heart_tank" : {
+		"name"    : "Heart Tank",
+		"memory"  : "Green Status: 8% - Normal|L|Red Status: 8% - Normal|L|Yellow Status: 8% - Normal|L|Blue Status: 8% - Normal|L|Orange Status: 8% - Normal|L|Purple Status: 59% - Critical|L|Anomalous: 1% - Critical|L|Status: Defective|L||L|//Subject has expressed desire for physical contact.",
+		"card"    : "All defenses +[VAL1]|L|Max Health +[VAL6]|L|Fully Heal",
+	},
+	
+	
+	
+	
+	"I_sour_candy" : {
+		"name"    : "Sour Candy",
+		"memory"  : "This candy tastes like a cluster of 100 sour fruits all at once! I can only handle that kind of shock every once in a while, but I still love them.|L||L|She said that she's going to bring me a bunch of different candies to try. Knowing her, it will probably be a bunch of weird flavors that she is too scared to try first.",
+		"card"    : "Max Health +[VAL1]|L|Without Heal|L|+[VAL3] Panics",
+	},
+	"I_scissors" : {
+		"name"    : "Scissors",
+		"memory"  : "Intrusive thoughts. I am nowhere near those scissors, but I still can't help but imagine every possible way they could hurt me.",
+		"card"    : "Panic Dmg. +[VAL1]|L|+[VAL2] Panics",
+	},
+	"I_tower" : {
+		"name"    : "Tower",
+		"memory"  : "\"A Zaraden afraid of heights? That's the most ridiculous thing I've ever heard,\" they say. Of course, I should note that THEY can fly without any help.",
+		"card"    : "Longer panic attacks|L|+[VAL2] Panics",
+	},
+	"I_thunder" : {
+		"name"    : "Thunder",
+		"memory"  : "It's just so loud and sudden. I hide in the corner until it passes. I hold my antennae so tight, hoping they won't pick up those awful vibrations.",
+		"card"    : "Bigger panic attacks|L|+[VAL2] Panics",
+	},
+	"I_light_glyph" : {
+		"name"    : "Light Glyph",
+		"memory"  : "|C3||teh||xai| (Texai) |C0|Dim|L||C3||rah||xai| (Raxai) |C0|Vivid|L||C3||xai||ah||hai| (Xyahai) |C0|Photosynthesis",
+		"card"    : "Radiant panics|L|Radiant Def. +[VAL2]|L|+[VAL3] Panics",
+	},
+	"I_void_glyph" : {
+		"name"    : "Void Glyph",
+		"memory"  : "|C3||vai||yo| (Vaiyo) |C0|Motionless|L||C3||vai||lu| (Vailu) |C0|Fear|L||C3||vai||ral| (Veyeral) |C0|Alone Together",
+		"card"    : "Void panics|L|Void Def. +[VAL2]|L|+[VAL3] Panics",
+	},
+	"I_fire_glyph" : {
+		"name"    : "Fire Glyph",
+		"memory"  : "|C3||ai||soh| (Aiso) |C0|Soul|L||C3||soh||ry| (Sohry) |C0|Spicy|L||C3||tra||soh||ah| (Trasoah) |C0|Boiling",
+		"card"    : "Burn panics|L|Burn Def. +[VAL2]|L|+[VAL3] Panics",
+	},
+	"I_energy_glyph" : {
+		"name"    : "Energy Glyph",
+		"memory"  : "|C3||yih||yo| (Yiyo) |C0|Positive|L||C3||nu||yo| (Nuyo) |C0|Negative|L||C3||yo||ren| (Yoren) |C0|Flow|L||C3||nu||yo||ren| (Nuyoren) |C0|Broken",
+		"card"    : "Zap panics|L|Zap Def. +[VAL2]|L|+[VAL3] Panics",
+	},
+	"I_natural_glyph" : {
+		"name"    : "Natural Glyph",
+		"memory"  : "|C3||ry||tra| (Rytra) |C0|Scent|L||C3||ehv||ry| (Ehvry) |C0|Organic|L||C3||ai||ry| (Iiry) |C0|Wild",
+		"card"    : "Toxic panics|L|Toxic Def. +[VAL2]|L|+[VAL3] Panics",
+	},
+	"I_poison_mushroom" : {
+		"name"    : "Poison Mushroom",
+		"memory"  : "No! You don't want to try that one. Trust me. I've tried it before.",
+		"card"    : "Max Health +[VAL1]|L|Without Heal|L|+[VAL3] Panics",
+	},
+	"I_broken_glass" : {
+		"name"    : "Broken Glass",
+		"memory"  : "Intrusive thoughts. A random occurrence will cause this glass to break suddenly. All of the pieces will come flying at me.",
+		"card"    : "Panic Dmg. +[VAL1]|L|+[VAL2] Panics",
+	},
+	"I_forest" : {
+		"name"    : "Forest",
+		"memory"  : "I can't wait for my wings to grow! I'm gunna fly so high up!|L||L|How much more do I have to wait Mommy?",
+		"card"    : "Longer panic attacks|L|+[VAL2] Panics",
+	},
+	"I_squall" : {
+		"name"    : "Squall",
+		"memory"  : "These storms come and go so fast, but they are absolutely terrifying while they last.",
+		"card"    : "Bigger panic attacks|L|+[VAL2] Panics",
+	},
+	"I_embrace" : {
+		"name"    : "Embrace",
+		"memory"  : "She promised me 10,000 hours of accumulated hugs. She was always good at keeping track of things. I wonder if we really even made it to 1 hour.",
+		"card"    : "Smaller panics|L|Panic Dmg. +[VAL1]|L|+[VAL4] Panics",
+	},
+	"I_entropy" : {
+		"name"    : "Entropy",
+		"memory"  : "Nothing terrifies me more than the fact that the whole universe is tending towards an endless expanse of stillness. All matter frozen at the same temperature.|L|But then I remember that something caused this universe to exist right now. It could happen again.",
+		"card"    : "Regenerate 1 panic if none remain",
+	},
+	"I_phobia" : {
+		"name"    : "Phobia",
+		"memory"  : "you will dIe alone|L|nobody even Likes you|L|yOu will die alone|L|nobody eVen likes you|L|you will die alonE|L|nobody even likes YOU|L||shake|HahAhaHaAhaHA",
+		"card"    : "+[VAL1] Panic attacks",
+	},
+	"I_bloody_nails" : {
+		"name"    : "Bloody Nails",
+		"memory"  : "She noticed the cuts on my fingers. I told her that I fell and scraped them, but I know she didn't believe that. I just don't want her to worry.|L||L|I bite them so hard when I get nervous. Without even realizing it, I bite them until they bleed.",
+		"card"    : "Automatic panic attacks|L|+[VAL2] Panics",
+	},
+	
+	
+	
+	
+	"I_pebble" : {
+		"name"    : "Pebble",
+		"memory"  : "A sudden sharp pain in the back of my head. I turn around and find this shiny pebble on the floor. Two giggling Zaraden fly over me.|L|\"She is just a wingless. It doesn't matter.\"|L|I kept that rock. It's a very pretty rock.",
+		"card"    : "Charge Dmg. +[VAL1]%",
+	},
+	"I_blank_canvas" : {
+		"name"    : "Blank Canvas",
+		"memory"  : "There is nothing on this page, but I can't wait to change that!",
+		"card"    : "Faster Charging|L|Energize time -[VAL2]%",
+	},
+	"I_spring_mushroom" : {
+		"name"    : "Spring Mushroom",
+		"memory"  : "Another type of cute spring mushroom!|L||L|These ones vibrate all the time. If you listen closely, you can hear them humming.",
+		"card"    : "Max Health +[VAL1]|L|Max Energy +[VAL3]",
+	},
+	"I_energy_tank" : {
+		"name"    : "Energy Tank",
+		"memory"  : "We are running out of purple tetrids yet again. How is it that we always have the other five in consistent quantities?",
+		"card"    : "Max Energy +[VAL1]|L|Energize +[VAL2]%",
+	},
+	"I_sun_stone" : {
+		"name"    : "Sun Stone",
+		"memory"  : "Why are you all looking at me? What do you want from me? Did I do something wrong?!|L||L|You expect too much from me...|L|Stop looking at me!",
+		"card"    : "Energize +[VAL1]%|L|Reveal an extra monster choice",
+	},
+	"I_sweet_fruit" : {
+		"name"    : "Sweet Fruit",
+		"memory"  : "This fruit is so juicy and sweet. It is my favorite fruit, but it only grows high up in the trees. I can only get the ones that fall to the ground ...unless the aviocs get to it first.",
+		"card"    : "Radiant Charge|L|Charge Dmg. +[VAL2]%|L|Max Health +[VAL3]",
+	},
+	"I_dry_fruit" : {
+		"name"    : "Dry Fruit",
+		"memory"  : "This fruit is dry and crunchy. The inside is mostly hollow and it has absolutely no flavor. Unfortunately, this is the most common fruit I can get.",
+		"card"    : "Void Charge|L|Charge Dmg. +[VAL2]%|L|Immunity up",
+	},
+	"I_spicy_fruit" : {
+		"name"    : "Spicy Fruit",
+		"memory"  : "This fruit tastes like it was on fire! My eyes start stinging just by being near it! I can't handle this one.",
+		"card"    : "Burn Charge|L|Energize +[VAL2]%|L|Immunity up",
+	},
+	"I_sour_fruit" : {
+		"name"    : "Sour Fruit",
+		"memory"  : "This fruit grows in little clusters. Every time I bite one, I feel like my face is going to collapse into itself. They are actually quite tasty once you get over the initial shock.|L||L|I bet these could even get Pearl to make a funny face!",
+		"card"    : "Zap Charge|L|Energize +[VAL2]%|L|Max Health +[VAL3]",
+	},
+	"I_bitter_fruit" : {
+		"name"    : "Bitter Fruit",
+		"memory"  : "This fruit tastes exactly like the grass around here. It's not very good to eat, but I can use it in my paints.",
+		"card"    : "Toxic Charge|L|Charge Dmg. +[VAL2]%|L|Max Health +[VAL3]",
+	},
+	"I_fungal_spark" : {
+		"name"    : "Fungal Spark",
+		"memory"  : "Ouch!|L|Okay! Don't actually touch the yellow springy ones, especially when they are close together.|L||L|Joule would probably love these!",
+		"card"    : "Max Health +[VAL1]|L|Max Energy +[VAL3]|L|Energize +[VAL5]%",
+	},
+	"I_reserve_tank" : {
+		"name"    : "Reserve Tank",
+		"memory"  : "I can't stress enough the importance of a backup plan.|L||L|If my holowings were to run out of energy while I am high above the ground, that would be very bad for me. If all my backups fail, I can only hope the sheer terror of falling would keep them powered long enough to drift down safely.",
+		"card"    : "Max Energy +[VAL1]|L|Energize +[VAL2]%",
+	},
+	"I_energy_zest" : {
+		"name"    : "Energy Zest",
+		"memory"  : "It's probably a good thing that I can't get ahold of these anymore. Sure, they are great for a full night of writing music, but terrible for the next day.",
+		"card"    : "Overflowing with extra energy!|L|Charge Dmg. +[VAL3]%",
+	},
+	"I_love_signal" : {
+		"name"    : "Love Signal",
+		"memory"  : "This signal confirms it! There is life beyond this universe. They are right here! They are right next to us, and yet so far away!|L||L|Those Shambles might never know how much they've truly helped me.",
+		"card"    : "Charged shots attract your basic shots",
+	},
+	"I_puncture" : {
+		"name"    : "Puncture",
+		"memory"  : "When you love someone, it's like they poked a tiny hole in your heart and now all the love is leaking out. Sometimes, it can be embarrassing, but do you really want to patch it up?",
+		"card"    : "Shoot basic shots at half rate while charging",
+	},
+	"I_paint_brush" : {
+		"name"    : "Paint Brush",
+		"memory"  : "Zaraden come in every possible combination of colors. Most Zaraden are drawn to things of their own two colors. Everything from their favorite food to their love partner will have at least one of their colors. My hair is pink, but I was born with the rarest skin color, NONE. I get to love all colors equally. Lucky me!",
+		"card"    : "Charge longer for a critical attack!|L|Combo timer up",
+	},
+	"I_heartbeat" : {
+		"name"    : "Heartbeat",
+		"memory"  : "//Unit-99 is activated for the first time|L|Fear Rating: 6,791|L||L|//Name, Lulu, assigned to Unit-99|L|Assigned by: Lutekna|L|Fear Rating: 734|L||L|//Heartbeat.prog initialized|L|//Unit Lulu experienced a sudden rise in temperature|L|Fear Rating: 0",
+		"card"    : "Max Energy +[VAL1]|L|Energize +[VAL3]%|L|Faster Charging",
+	},
+	
+	
+	
+	
+	"I_thorns" : {
+		"name"    : "Thorns",
+		"memory"  : "My heart can't be broken if I never let anyone touch it!",
+		"card"    : "Heart Dmg. +[VAL1]",
+	},
+	"I_love_note" : {
+		"name"    : "Love Note",
+		"memory"  : "I found this crumpled note down here. It said \"I Love You\" with a heart next to it. I don't know how it ended up down here, and I wonder if it was ever delivered. I think about what it would be like to give this to someone and my heart starts to beat faster.",
+		"card"    : "Heart Rate +[VAL1]",
+	},
+	"I_blood_flow" : {
+		"name"    : "Blood Flow",
+		"memory"  : "The love noodles are a very important organ. When your heart beats, it pumps all of the love fluid through your love noodles. This ensures that none of your other organs ever feel lonely. This is vital to staying alive.",
+		"card"    : "Heart Dmg. +[VAL1]|L|Shot Speed +[VAL2]",
+	},
+	"I_paper_cut" : {
+		"name"    : "Paper Cut",
+		"memory"  : "I got a paper cut! This is truly what it means to suffer for your art.",
+		"card"    : "Heart Dmg. +[VAL1]|L|Max Health +[VAL2]",
+	},
+	"I_double_time" : {
+		"name"    : "Double Time",
+		"memory"  : "When the music goes into double time, I can feel my heart beat faster. I get so excited, I just want to break something! But in a good way, you know?",
+		"card"    : "Heart Rate +[VAL1]|L|Shot Speed +[VAL2]|L|Movement +[VAL3]",
+	},
+	"I_glowing" : {
+		"name"    : "Glowing",
+		"memory"  : "A critical hug!|L||L|A surprise hug that occurs at the moment when you need it most. It deals extra love per second.",
+		"card"    : "Radiant Def. +[VAL1]|L|Critical Heart Rate +[VAL2]%",
+	},
+	"I_icy" : {
+		"name"    : "Icy",
+		"memory"  : "It's so cold...|L|Let's warm up together.",
+		"card"    : "Void Def. +[VAL1]|L|Heart Dmg. +[VAL2]",
+	},
+	"I_warmth" : {
+		"name"    : "Warmth",
+		"memory"  : "Veyerals are so freezing cold that even fire won't warm them up. I've seen them rolling around in actual fire. The fire was just absorbed into their body. They looked so disappointed.",
+		"card"    : "Burn Def. +[VAL1]|L|Heart Rate +[VAL2]",
+	},
+	"I_sparky" : {
+		"name"    : "Sparky",
+		"memory"  : "I made a friend, and she has wings, and they're so pretty, and I am so excited to see her again!",
+		"card"    : "Zap Def. +[VAL1]|L|Heart Rate +[VAL2]|L|Shot Speed +[VAL3]",
+	},
+	"I_illness" : {
+		"name"    : "Illness",
+		"memory"  : "I'll hug you and make you feel all better.|L|Oh no! Now I'm sick too!|L|Oh well. We might as well keep hugging then.",
+		"card"    : "Toxic Def. +[VAL1]|L|Critical Heart Damage +[VAL2]%",
+	},
+	"I_acute_heart" : {
+		"name"    : "Acute Heart",
+		"memory"  : "It's just so strange to me. She really seemed to love everything.|L||L|One day, we found a dead mite on the ground. Within seconds, she was sobbing as if she had known that little creature her entire life. She held it in her arms and tried to kiss it back to life...",
+		"card"    : "Critical Heart Rate +[VAL1]%",
+	},
+	"I_anchor" : {
+		"name"    : "Anchor",
+		"memory"  : "I will always be a wingless to them. Even though I found my own way to fly. I created something that could change the lives of all wingless. We could all be the same, but it doesn't matter. We will always be wingless to them.",
+		"card"    : "Heart shots move with you|L|Heart Rate +[VAL2]",
+	},
+	"I_sine_wave" : {
+		"name"    : "Sine Wave",
+		"memory"  : "Such beautiful patterns can be described with nothing but numbers. Our whole universe can be modeled with numbers. Truly fascinating!",
+		"card"    : "Wavy heart shots|L|Heart Rate +[VAL2]",
+	},
+	"I_cracked_heart" : {
+		"name"    : "Cracked Heart",
+		"memory"  : "I wonder who this one belonged to.|L|It's so cold now. It must have been here for a very long time.|L||L|It's too late to help her now...",
+		"card"    : "Split Hearts +[VAL1]|L|Heart Dmg. +[VAL3]",
+	},
+	"I_acute_shot" : {
+		"name"    : "Acute Shot",
+		"memory"  : "She always knew exactly what to say to make me feel better. I just wish I could figure out how to do the same for her, but I'm no good at it. I don't know how she could love everything so much.|L||L|Everything but herself...",
+		"card"    : "Critical Heart Rate +[VAL1]%",
+	},
+	"I_pressure" : {
+		"name"    : "Pressure",
+		"memory"  : "Ah! Remembering even the simplest things is so difficult when I'm under pressure!",
+		"card"    : "Heart rate +[VAL1]% during focus",
+	},
+	"I_ripple_effect" : {
+		"name"    : "Ripple Effect",
+		"memory"  : "I overheard yet another Zaraden talking about the same dream. An odd zaranoid creature was talking to her. It was impossible to make out the details of its form and it spoke with random noises. This has to be the same being that I saw. It's connecting with random Zaraden through their dreams, but not in the same way that any known monster would.|L||L|This is very exciting!",
+		"card"    : "Split Hearts +[VAL1]|L|Heart Dmg. +[VAL3]|L|Crit. Rate +[VAL4]%",
+	},
+	"I_love_mite" : {
+		"name"    : "Love Mite",
+		"memory"  : "They say that the sting of a love mite feels exactly like being in love. One of these stung me and all I got was uncontrollable nausea and vivid hallucinations!",
+		"card"    : "Spread Shots|L|Heart Rate +[VAL2]|L|+[VAL3] Panics",
+	},
+	"I_reflection" : {
+		"name"    : "Reflection",
+		"memory"  : "We were so very different, but I saw so much of myself in her. Those are just memories now. I can never see her again.",
+		"card"    : "Shoot hearts behind you",
+	},
+	"I_another_heart" : {
+		"name"    : "Another Heart",
+		"memory"  : "What would happen if you really gave your heart away when you fell in love? Ideally, everyone would get one back. In reality, some would have many, and many would have none.",
+		"card"    : "Shoot an extra heart",
+	},
+	"I_pile_of_hearts" : {
+		"name"    : "Pile of Hearts",
+		"memory"  : "You have all this love to give and you forgot how to express it? Let me remind you how!",
+		"card"    : "Shoot two extra hearts",
+	},
+	"I_rhythm" : {
+		"name"    : "Rhythm",
+		"memory"  : "Isn't it strange that sound waves bouncing off of your antennae in very specific patterns can make you cry?|L||L|Hey, don't look at me like that! I know music has made you cry a bunch of times.",
+		"card"    : "Critical Heart rate and damage +[VAL1]%",
+	},
+	
+	
+	
+	
+	"I_mote_bulb" : {
+		"name"    : "Mote Bulb",
+		"memory"  : "//Unit-07 is activated after 78,022 days|L|Fear Rating: 93,041|L||L|//Name, Split Unit, assigned to Unit-07|L|Assigned by: Lutekna|L|[Name assignment rejected]|L|//Critical error in Weapon Systems|L|Fear Rating: 97,236|L||L|[Activating distress signal]|L|//Reply received from Unit-08",
+		"card"    : "(Focus Only)|L|Radiant Hearts|L|Split Hearts +[VAL2]",
+	},
+	"I_vacuum_tube" : {
+		"name"    : "Vacuum Tube",
+		"memory"  : "[Distress signal received]|L|Sender: Unit-07|L|//Unit-08 is activated after 78,022 days|L|Fear Rating: 94,734|L||L|[Message from Unit-07]|L|//Attack hostile Zaraden, Lutekna|L||L|//Critical error in Weapon Systems|L|Fear Rating: 102,487",
+		"card"    : "(Focus Only)|L|Void Hearts|L|Crit. Rate +[VAL2]%",
+	},
+	"I_heat_coil" : {
+		"name"    : "Heat Coil",
+		"memory"  : "[Open Shell]|L|//Prisma has received affection|L|Donated by: Wingless Zaraden|L|Fear Rating: 0|L||L|//Prisma is vulnerable|L|//Temperature Warning!|L|Fear Rating: 761|L||L|//Temperature Warning!|L|//Temperature Warning!|L|[Close Shell]",
+		"card"    : "(Focus Only)|L|Burn Hearts|L|Heart Rate +[VAL2]%",
+	},
+	"I_circuitry" : {
+		"name"    : "Circuitry",
+		"memory"  : "[Distress signal received]|L|Sender: Syncron-03|L|//Intruder detected|L|//Potential tower zone-5169|L|//One unidentified Zaraden|L||L|[Activating distress signal]|L|//Reply received from Syncron-01|L|//Reply received from Syncron-04|L|[Activating Panic Mode]|L|//Do not let her enter",
+		"card"    : "(Focus Only)|L|Zap Hearts|L|Heart Dmg. +[VAL2]%",
+	},
+	"I_chemical_light" : {
+		"name"    : "Chemical Light",
+		"memory"  : "//Heart Drive access is locked|L|//Sentinel Model 4X requires a password|L|Enter Password: |ai||lu||ai||L|//Incorrect password|L|Enter Password: |ai||lu||ai||L|//Incorrect password|L|Enter Password: |ai||lu||ai||L|//.............Error|L||L|//Password Accepted|L|[Heart Drive Unlocked]",
+		"card"    : "(Focus Only)|L|Toxic Hearts|L|Split Hearts +[VAL2]",
+	},
+	"I_love" : {
+		"name"    : "Love",
+		"memory"  : "It is simple.|L|It is lovely.|L|It is awful.|L|It is wonderful.|L||wave|It feels like every color all at once!",
+		"card"    : "Radiant Hearts|L|Heart Dmg. +[VAL2]|L|Crit. Rate +[VAL3]%",
+	},
+	"I_apathy" : {
+		"name"    : "Apathy",
+		"memory"  : "Sometimes, I just don't care enough to even finish this...",
+		"card"    : "Void Hearts|L|Heart Dmg. +[VAL2]|L|Immunity up",
+	},
+	"I_passion" : {
+		"name"    : "Passion",
+		"memory"  : "Sometimes, I just don't know when to stop. My heart is on fire and I never want it to go out!",
+		"card"    : "Burn Hearts|L|Heart Dmg. +[VAL2]|L|Heart Rate +[VAL3]",
+	},
+	"I_elation" : {
+		"name"    : "Elation",
+		"memory"  : "She had actually come back to see me! My heart was electric!",
+		"card"    : "Zap Hearts|L|Heart Rate +[VAL2]|L|Shot Speed +[VAL3]",
+	},
+	"I_desire" : {
+		"name"    : "Desire",
+		"memory"  : "Sometimes, I want something so much, it takes over my every thought. That's when it begins to poison my heart.",
+		"card"    : "Toxic Hearts|L|Crit. Rate +[VAL2]%|L|Crit. Dmg. +[VAL3]%",
+	},
+	"I_everything" : {
+		"name"    : "Everything",
+		"memory"  : "The Void says that she cannot feel love, but I saw all of those hearts inside her. She has so many hearts. I know they can feel love. Every heart can feel loved.",
+		"card"    : "Heart Shots are all the elements!|L|Heart Rate +[VAL2]",
+	},
+	
+	
+	
+	
+	"I_cutter" : {
+		"name"    : "Cutter",
+		"memory"  : "She told me they were used in something called a war. Thousands of Zaraden would kill each other with these THINGS just because someone told them to! It was so horrible to think about and it haunted me for days. She assured me that there haven't been any wars for hundreds of years.",
+		"card"    : "Feather Dmg. +[VAL1]",
+	},
+	"I_drumsticks" : {
+		"name"    : "Drumsticks",
+		"memory"  : "I love these things! I can make music just by hitting things with them! And best of all, there is no one around to complain about it...",
+		"card"    : "Feather Rate +[VAL1]|L|Movement +[VAL2]",
+	},
+	"I_glow_mite" : {
+		"name"    : "Glow Mite",
+		"memory"  : "These bugs are very pretty, but so rare. I even tried to climb a tree just to see one up close! I was about half way up when I realized my mistake. I hugged a branch so tight and started to cry. I didn't think I could ever get down. Luckily, another Zaraden flew by and saw me. She decided to help me down! That was how we met.",
+		"card"    : "Feather range up",
+	},
+	"I_tiny_feather" : {
+		"name"    : "Tiny Feather",
+		"memory"  : "Zaraden wings are as varied as the colors of their skin. There are feathered wings, scaled wings, chitin wings, and more that I've never seen before. My feathers are hard chitin feathers, a common mutation among the wingless. She told me the little bulbs at the end are cute!",
+		"card"    : "Shoot an extra feather",
+	},
+	"I_glow_wings" : {
+		"name"    : "Glow Wings",
+		"memory"  : "Feathered wings are by far the most common type of Zaraden wings. They almost always come in a single pair, but some Zaraden can have up to three pairs of feathered wings.",
+		"card"    : "Radiant Def. +[VAL1]|L|Feather range up",
+	},
+	"I_wingless" : {
+		"name"    : "Wingless",
+		"memory"  : "About 1 in 2048 Zaraden that are born to fully winged parents will turn out to be wingless. We have extremely little data on whether or not either parent being wingless has an effect on this chance. Very few wingless ever reach adulthood. But it doesn't have to be like this...|L||L|I always hated that term. They still have wings, but they just never fully developed.",
+		"card"    : "Void Def. +[VAL1]|L|Critical Feather Rate +[VAL2]%",
+	},
+	"I_webbed_wings" : {
+		"name"    : "Webbed Wings",
+		"memory"  : "Webbed wings are the rarest type of wings that Zaraden can have. They are usually able to fly the fastest too.",
+		"card"    : "Burn Def. +[VAL1]|L|Feather Dmg. +[VAL2]",
+	},
+	"I_scale_wings" : {
+		"name"    : "Scale Wings",
+		"memory"  : "Some Zaraden are born with patches of differently colored skin. These are quite rare and considered very beautiful.",
+		"card"    : "Zap Def. +[VAL1]|L|Feather Rate +[VAL2]",
+	},
+	"I_chitin_wings" : {
+		"name"    : "Chitin Wings",
+		"memory"  : "Chitin wings are strong, but very brittle. If any part of them is torn, it will take a much longer time to heal compared to the other types of wings.",
+		"card"    : "Toxic Def. +[VAL1]|L|Critical Feather Damage +[VAL2]%",
+	},
+	"I_lucky_feather" : {
+		"name"    : "Lucky Feather",
+		"memory"  : "All of her feathers are lucky feathers to me.",
+		"card"    : "Critical Feather Rate +[VAL1]%|L|Karma +[VAL2]",
+	},
+	"I_friendship" : {
+		"name"    : "Friendship",
+		"memory"  : "I lost it! I lost it! The necklace! The one we made with our feathers.|L|I had to get away...|L|I had to run...|L|I'll never see her beautiful feather again. I only have the memories now.",
+		"card"    : "Shoot two extra feathers",
+	},
+	"I_perfect_feather" : {
+		"name"    : "Perfect Feather",
+		"memory"  : "I have a single feather that always grows in with the wrong color. I pluck it every time it grows back... and it always comes back.|L||L|But ever since I met HER, I just can't bring myself to pull it out anymore. Not everything has to be perfect.",
+		"card"    : "Critical Feather Rate +[VAL1]%|L|Karma +[VAL2]",
+	},
+	"I_neo_world" : {
+		"name"    : "Neo World",
+		"memory"  : "That zaranoid creature from my dreams was trying to talk to me, but I couldn't understand a word it was saying. All Zaraden largely speak the same language now, but this doesn't sound like any of the dead languages we used in the past. It seems like this language is from another world entirely.|L||L|I'm so excited! I can hardly sleep!|L|...Which is making this a bit more difficult.",
+		"card"    : "Critical Feathers have triple range|L|Crit. Rate +[VAL2]%",
+	},
+	"I_real_wing" : {
+		"name"    : "Real Wing",
+		"memory"  : "She picked me up and took me up into the air. She took me so high up that we could see the top of every tower! I looked down... but I wasn't scared. I was safe with her.",
+		"card"    : "Shoot four extra feathers",
+	},
+	
+	
+	
+	
+	"I_photon_sword" : {
+		"name"    : "Photon Sword",
+		"memory"  : "Oh no! One of my feathers fell off. I won't be able to take any good photographs for a few days. I need the light to reflect off of them in just the right way.|L||L|Be careful with it! They are sharper than they look.",
+		"card"    : "(Focus Only)|L|Radiant Feathers|L|Damage +[VAL2]%",
+	},
+	"I_shade_pendant" : {
+		"name"    : "Shade Pendant",
+		"memory"  : "That feather did belong to me. I try not to let them fall off in this dimension.|L||L|There will be repercussions for finding this. I am left with no other choice but to let you keep it.",
+		"card"    : "(Focus Only)|L|Void Feathers|L|Range +[VAL2]%",
+	},
+	"I_flame_lance" : {
+		"name"    : "Flame Lance",
+		"memory"  : "Oh |shake||nu||ze||nah||norm|!|L|It fell off right here? I have to be more careful. I don't want to burn down the whole |shake||nu||ze||nah||norm| forest!",
+		"card"    : "(Focus Only)|L|Burn Feathers|L|Crit. Rate +[VAL2]%",
+	},
+	"I_spark_prism" : {
+		"name"    : "Spark Prism",
+		"memory"  : "Yes!|L|Yes. Yes. Yes. Yes. Yes.|L|Yes. Yes. Yes. Yes.|L|Prisma opened up to me!|L|I saw that cute little core.|L|She looked right at me!|L|I was so excited, some of my feathers fell right off.",
+		"card"    : "(Focus Only)|L|Zap Feathers|L|Shot Rate +[VAL2]%",
+	},
+	"I_poison_needle" : {
+		"name"    : "Poison Needle",
+		"memory"  : "Once they fall off, I can't control what they do anymore. They usually corrode anything they touch into a toxic liquid, but sometimes they just smell like flowers. I don't like those odds, so I usually keep my wings out of this dimension.|L||L|There was that one feather I gave to Scrambla. It turned things into soap. She REALLY wanted it for some reason.",
+		"card"    : "(Focus Only)|L|Toxic Feathers|L|Crit. Rate +[VAL2]%",
+	},
+	"I_rainbow" : {
+		"name"    : "Rainbow",
+		"memory"  : "I can't wait until the day that I get to see one of these again. Even the most terrifying of storms end with a beautiful rainbow.",
+		"card"    : "Radiant Feathers|L|Crit. Rate +[VAL2]%|L|Crit. Dmg. +[VAL3]%",
+	},
+	"I_blizzard" : {
+		"name"    : "Blizzard",
+		"memory"  : "These are the ideal conditions to draw out a void monster.|L||L|It's so COLD!|L|Of course, they send ME down here. I'm dispensable. I'd be living down here if I wasn't so \"useful.\" But not useful enough it seems.",
+		"card"    : "Void Feathers|L|Extra feather|L|Damage +[VAL3]",
+	},
+	"I_wildfire" : {
+		"name"    : "Wildfire",
+		"memory"  : "The Prisma unit went berserk again. Just when I thought I could begin to understand these machines, they do something like this. Why were they built this way? It is completely irrational.",
+		"card"    : "Burn Feathers|L|Feather Dmg. +[VAL2]|L|Feather Rate -[VAL4]",
+	},
+	"I_storm" : {
+		"name"    : "Storm",
+		"memory"  : "It's just noise.|L|It can't hurt me.|L|It's just noise.|L|It can't hurt me.|L|It's just noise.|L|It can't hurt me.|L|THAT was a loud one!",
+		"card"    : "Zap Feathers|L|Extra feather|L|Range up",
+	},
+	"I_acid_rain" : {
+		"name"    : "Acid Rain",
+		"memory"  : "What if it rained like this in Iiry? For everything we've done, we would deserve it. I would not fight it. I don't have anyone left anyways. I would be with her again.|L||L|Cleanse us, acid rain!",
+		"card"    : "Toxic Feathers|L|Critical Feather Rate +[VAL2]%",
+	},
+	"I_spectrum" : {
+		"name"    : "Spectrum",
+		"memory"  : "The arrangement of light cells in the eyes of each Zaraden is slightly varied. That means that we all perceive color a little bit differently. If we could switch eyes, how much different would the world look?",
+		"card"    : "Feather Shots are all the elements!|L|Feather Rate +[VAL2]",
+	},
+	
+	
+	
+	
+	"I_starspur" : {
+		"name"    : "Starspur",
+		"memory"  : "These spiky plants look pretty, but do not touch them! They will stick to you and they will hurt when you try to pull them out.",
+		"card"    : "Star Dmg. +[VAL1]",
+	},
+	"I_falling_star" : {
+		"name"    : "Falling Star",
+		"memory"  : "I wish I could see her again.|L|I wish I could fly.",
+		"card"    : "Minimum Star Rate +[VAL1]",
+	},
+	"I_shooting_star" : {
+		"name"    : "Shooting Star",
+		"memory"  : "I wish she could fly.|L|I wish I could see her again.",
+		"card"    : "Maximum Star Rate +[VAL1]",
+	},
+	"I_star_mite" : {
+		"name"    : "Star Mite",
+		"memory"  : "Sometimes I'll see a tree full of star mites. The little spots glow like stars all over the tree. It reminds me of the night sky. At least how it used to be... before the rain.",
+		"card"    : "Star rate bar time -[VAL1]%",
+	},
+	"I_violence" : {
+		"name"    : "Violence",
+		"memory"  : "If love and friendship can't solve it, then a little violence will get the job done!",
+		"card"    : "Star Dmg. +[VAL1]|L|Max Health +[VAL2]",
+	},
+	"I_star_shower" : {
+		"name"    : "Star Shower",
+		"memory"  : "Don't worry, those are just little pebbles falling from space. If a real star fell down to Eyeris, we would all be vaporized instantly.",
+		"card"    : "Min and Max Star Rate +[VAL1]",
+	},
+	"I_spectral_bloom" : {
+		"name"    : "Spectral Bloom",
+		"memory"  : "These beautiful flowers can actually grow shiny pebbles inside them!",
+		"card"    : "Radiant Def. +[VAL1]|L|Star rate bar time -[VAL2]%",
+	},
+	"I_night_bloom" : {
+		"name"    : "Night Bloom",
+		"memory"  : "These flowers will only bloom when moonlight shines on them. Normally they would close again during the day, but they stay open when it rains in the morning. Or all day...",
+		"card"    : "Void Def. +[VAL1]|L|Minimum Star Rate +[VAL2]",
+	},
+	"I_day_bloom" : {
+		"name"    : "Day Bloom",
+		"memory"  : "These flowers only bloom in the daylight. I have not seen one bloom in a long time.",
+		"card"    : "Burn Def. +[VAL1]|L|Critical Star Damage +[VAL2]%",
+	},
+	"I_shock_bloom" : {
+		"name"    : "Shock Bloom",
+		"memory"  : "These flowers cause a mild tingling feeling when you touch them. They also stick to magnets.",
+		"card"    : "Zap Def. +[VAL1]|L|Maximum Star Rate +[VAL2]",
+	},
+	"I_gloom_bloom" : {
+		"name"    : "Gloom Bloom",
+		"memory"  : "These flowers will cause sadness for a few minutes when you touch them. Uncontrollable tears will come out of your eyes.|L||L|I probably shoudn't go near them, but they might be so lonely!",
+		"card"    : "Toxic Def. +[VAL1]|L|Critical Star Rate +[VAL2]%",
+	},
+	"I_photon_wave" : {
+		"name"    : "Photon Wave",
+		"memory"  : "The photons reflecting off your body are composing such an appealing image in my eyes.|L||L|I can't believe I said this to her! What was I thinking?!",
+		"card"    : "Wavy star shots|L|Star Dmg. +[VAL2]",
+	},
+	"I_arrow" : {
+		"name"    : "Arrow",
+		"memory"  : "Now this is an interesting find.|L||L|This must have been down here for hundreds of years. Since even before these towers.",
+		"card"    : "Critical Star Rate +[VAL1]%",
+	},
+	"I_barrage" : {
+		"name"    : "Barrage",
+		"memory"  : "My sister isn't feeling well today. She is going to need an inescapable hug and about 2,000 kisses right now!",
+		"card"    : "Maximum Star Rate +[VAL1]|L|Crit. Rate +[VAL2]%",
+	},
+	"I_rock_star" : {
+		"name"    : "Rock Star",
+		"memory"  : "I'm going to crumble those towers with nothing but the power of this righteous metal. Monsters are a better audience anyways!",
+		"card"    : "Star rate bar drains slower|L|Star Dmg. +[VAL2]",
+	},
+	"I_crying_effect" : {
+		"name"    : "Crying Effect",
+		"memory"  : "Every time I stop and think to myself, I start crying again. It just won't stop. What is wrong with me?",
+		"card"    : "Star Dmg. +[VAL1]% during focus|L|+[VAL3] Panics",
+	},
+	"I_star_glyph" : {
+		"name"    : "Star Glyph",
+		"memory"  : "|C3||la||la| (Lala) |C0|Day|L||C3||nah||la| (Nala) |C0|Daytime|L||C3||za||la| (Zaela) |C0|Nighttime|L||C3||teh||la| (Tehla) |C0|Ball|L||C3||la||den| (Lahden) |C0|Golden|L|",
+		"card"    : "Shoot stars behind you",
+	},
+	"I_platinum_star" : {
+		"name"    : "Platinum Star",
+		"memory"  : "If you ever run into trouble and you don't know what else you can do, I have a special technique for such occasions. You quickly move one leg forward. Then the other one. Repeat until you are very far away from the situation.|L||L|Works every time!",
+		"card"    : "Star shots are fast and precise|L|Rate Bar -[VAL1]%",
+	},
+	
+	
+	
+	
+	"I_glow_candy" : {
+		"name"    : "Glow Candy",
+		"memory"  : "Calorie really surprised me with these candies. They are very sweet! She got these from another world where it's always night time and cold. She likes to go there to cool off.|L||L|I had assumed that all fire monsters would like hot and spicy flavors, but I was completely wrong. I'm not sure why I thought that in the first place.",
+		"card"    : "(Focus Only)|L|Radiant Stars|L|Star Rate +[VAL2]%",
+	},
+	"I_void_candy" : {
+		"name"    : "Void Candy",
+		"memory"  : "Amalga pulled this thing out of another universe. She says it's the sweetest thing that she's ever tasted. I don't know how she convinced me to try it, but it tasted like absolutely nothing to me.",
+		"card"    : "(Focus Only)|L|Void Stars|L|Star Dmg. +[VAL2]%",
+	},
+	"I_spicy_candy" : {
+		"name"    : "Spicy Candy",
+		"memory"  : "Boiler found this in that infinite fire dimension she's always talking about, but I don't think these are supposed to be candy. We put one in water so that I could try one without the fire, but it just stayed on fire.",
+		"card"    : "(Focus Only)|L|Burn Stars|L|Fill Rate +[VAL2]%",
+	},
+	"I_pop_candy" : {
+		"name"    : "Pop Candy",
+		"memory"  : "Joule made these candies! These are fun because they pop and shock your tongue lightly.|L|She told me that she toned down the effect on mine though. I'm glad she did, because I can see sparks flying out of her mouth when she eats them.",
+		"card"    : "(Focus Only)|L|Zap Stars|L|Crit. Rate +[VAL2]%",
+	},
+	"I_bitter_candy" : {
+		"name"    : "Bitter Candy",
+		"memory"  : "Scrambla loves to eat these, but I don't know how to tell her that they are actually pieces of soap.",
+		"card"    : "(Focus Only)|L|Toxic Stars|L|Fill Rate +[VAL2]%",
+	},
+	"I_rainbow_star" : {
+		"name"    : "Rainbow Star",
+		"memory"  : "Rainbow stars are one of the most common type of star in the universe. This includes our own star, Xaila. They are massive enough to constantly fuse the irium atoms in their core into sherium. They emit a rainbow of light, but of course the atmosphere of our planet interferes with these colors.",
+		"card"    : "Radiant Stars|L|Min Rate +[VAL2]|L|Rate Bar -[VAL3]%",
+	},
+	"I_shiver_star" : {
+		"name"    : "Shiver Star",
+		"memory"  : "A shiver star is a star that has burnt out. They no longer have any fuel to burn through and are in the process of cooling down. They may eventually turn dark, but our universe is not old enough to have any dark shiver stars.",
+		"card"    : "Void Stars|L|Max Rate +[VAL2]|L|Min Rate -[VAL3]",
+	},
+	"I_burning_star" : {
+		"name"    : "Burning Star",
+		"memory"  : "After a rainbow star has fused all of its irium into sherium, it will begin to burn through that sherium. The star will grow massive and red.",
+		"card"    : "Burn Stars|L|Crit. Rate +[VAL2]%|L|Crit. Dmg. +[VAL3]%",
+	},
+	"I_nova_star" : {
+		"name"    : "Nova Star",
+		"memory"  : "When a large enough burning star has finished burning through its fuel, it will collapse into itself and create a nova explosion. It will blast brightly colored gas clouds in all directions.",
+		"card"    : "Zap Stars|L|Max Rate +[VAL2]|L|Rate Bar -[VAL3]%",
+	},
+	"I_protostar" : {
+		"name"    : "Protostar",
+		"memory"  : "A protostar is a large collection of gas that might eventually collapse down and form a new star.",
+		"card"    : "Toxic Stars|L|Star Dmg. +[VAL2]|L|Star Spread -[VAL3]%",
+	},
+	"I_wrath_of_pride" : {
+		"name"    : "Wrath of Pride",
+		"memory"  : "They took my friend away from me all those years ago. They lied to me about her!|L||L|I don't care what I'm supposed to be. I don't care what they call me! If loving my wingless friend makes me The Devil, then so be it!",
+		"card"    : "Star Shots are all the elements!|L|Max Rate +[VAL2]",
+	},
+	
+	
+	
+	
+	"I_heart_stone" : {
+		"name"    : "Heart Stone",
+		"memory"  : "These stones are created by all Eyeric Glyphs. They are believed to be made of the same material as the Glyphs themselves. It is not known why they create these, but they are always in the shape of a heart.|L||L|Glyph monsters will guard their heart stones for a few days after creating them. They DO NOT like it when another living thing touches their heart stone during this time.",
+		"card"    : "Radiant bullet helper",
+	},
+	"I_null_stone" : {
+		"name"    : "Null Stone",
+		"memory"  : "This stone is created by Eyeric Glyphs of void elements. Newly created stones can absorb all of the thermal energy from anything that touches them, but they lose this ability after a few days. Within the first 20 hours of creation, this effect is powerful enough to cause frostbite in only 30 seconds.",
+		"card"    : "Void bullet helper",
+	},
+	"I_heat_stone" : {
+		"name"    : "Heat Stone",
+		"memory"  : "This stone is created by Eyeric Glyphs of volatile elements. These will emit temperatures of over 3000 Sohradra. It is powerful enough to ignite objects within a 10 lidra radius. That may seem small, but the fire can easily spread. This effect will wear off after a few days, but the stone will always be warm.",
+		"card"    : "Burn bullet helper",
+	},
+	"I_spark_stone" : {
+		"name"    : "Spark Stone",
+		"memory"  : "This stone is created by Eyeric Glyphs of energetic elements. They are incredibly useful for their ability to conduct electricity. However, gathering them is quite dangerous. Not only can they easily electrocute a Zaraden, but Glyph monsters will react violently toward anything that touches them.",
+		"card"    : "Zap bullet helper",
+	},
+	"I_blight_stone" : {
+		"name"    : "Blight Stone",
+		"memory"  : "This stone is created by Eyeric Glyphs of toxic elements. These will emit a deadly toxin into the air for several days. Even after that effect wears off, the stone itself will always be corrosive to most living things.",
+		"card"    : "Toxic bullet helper",
+	},
+	"I_split_unit" : {
+		"name"    : "Split Unit",
+		"memory"  : "It's been another day of searching The Pit. I found another small deactivated Zaramech unit down there. I've decided to bring this one back with me.",
+		"card"    : "Helper that fires double zap shots",
+	},
+	"I_inverted_unit" : {
+		"name"    : "Inverted Unit",
+		"memory"  : "I've been tinkering with those deactivated Zaramechs I found in The Pit. I'm getting closer to figuring out how to activate them.",
+		"card"    : "Helper that fires zap shots backwards",
+	},
+	"I_blank_photo" : {
+		"name"    : "Blank Photo",
+		"memory"  : "I found an unusual heart stone hidden under a particularly large mushroom. This stone was completely transparent. I'd never seen any like it before, but after what happened last time, I didn't dare to touch it.|L||L|I can't help but wonder if communicating with those Glyphs is possible.",
+		"card"    : "Create a helper with your first charged shot",
+	},
+	"I_petrichor" : {
+		"name"    : "Petrichor",
+		"memory"  : "Something about the rain gets all of these monsters worked up. Even the smell of rain causes monster activity to rise.",
+		"card"    : "Shot rate +[VAL1]% for all helpers",
+	},
+	"I_blue_hug" : {
+		"name"    : "Blue Hug",
+		"memory"  : "I will never let Mother take her heart. She needs her heart. She is perfect like this.|L||L|But what about those other Zaraden? I have brought many others to Mother. I have been most imperfect...",
+		"card"    : "Helpers stay closer together|L|Helper Dmg. +[VAL2]%",
+	},
+	"I_all_stone" : {
+		"name"    : "All Stone",
+		"memory"  : "I saw two Glyphs fighting each other. Fire and ice blasts were flying across the sky. It looked as though the fire one was winning.|L|Then something amazing happened! They both formed a body! A Zaraden-like body! I didn't know they could do that! The Fire Glyph created the most beautiful stone that I had ever seen. She made it out of nothing but air and then she gave it to the Ice Glyph. They both looked so happy.",
+		"card"    : "All elemental helper that scales with combo",
+	},
+	"I_broken_heart" : {
+		"name"    : "Broken Heart",
+		"memory"  : "I trust you with this. Please help me put it back together.",
+		"card"    : "This helper improves during battle",
+	},
+	"I_cross_twin" : {
+		"name"    : "Cross Twin",
+		"memory"  : "It's really simple. I'll explain it again.|L||L|Her mother is my father and my mother is her father. We were born on the same day.|L||L|We are cross twins.",
+		"card"    : "Helper that attacks if you get hurt or panic",
+	},
+	"I_flip_flapped" : {
+		"name"    : "Flip Flapped",
+		"memory"  : "I've done it! One of the units came to life and it somehow activated another one I had brought with me. They were both immediately hostile, but I had planned for this by removing their firing mechanisms.|L||L|I finally got them both to calm down by humming a song I know. They just follow me around now.",
+		"card"    : "Split Unit|L|Inverted Unit|L|Helper Dmg. +[VAL5]%",
+	},
+	"I_scrambla_maw" : {
+		"name"    : "Scrambla Maw",
+		"memory"  : "Hello space alien!|L|You can read our memories here so we remembered to remember to say dis.|L||L|We love you!",
+		"card"    : "Break parts to improve this helper",
+	},
+	"I_boiler_maw" : {
+		"name"    : "Boiler Maw",
+		"memory"  : "Dis spicy will help you, yis?|L|If anything hurts you, we will apply extra spice to dis situation!",
+		"card"    : "Take damage to improve this helper",
+	},
+	"I_captured_stars" : {
+		"name"    : "Captured Stars",
+		"memory"  : "Photoxai! Photoxai!!|L||L|Please, I need you to teach me how you do this! How did you make these? It's for science!!|L||L|Ugh! She's gone...",
+		"card"    : "+[VAL1] Photo Stones|L|Max Energy +[VAL3]",
+	},
+	"I_misfit_heart" : {
+		"name"    : "Misfit Heart",
+		"memory"  : "So many broken hearts out there don't belong.|L|If we all come together,|L|We can be each other's missing pieces.",
+		"card"    : "Panic or take damage to gain orbital helpers",
+	},
+	"I_umbrella" : {
+		"name"    : "Umbrella",
+		"memory"  : "Imagine a normal Zaraden giving a gift to a wingless. I know it sounds absurd, but I remember when she gave me this umbrella. I told her that I didn't want it. I didn't think I deserved anything. I'll never forget what she told me.|L||L|\"You deserve to be loved, just like everyone else.\"",
+		"card"    : "Temporary safety bubble",
+	},
+	"I_fallen_angel" : {
+		"name"    : "Fallen Angel",
+		"memory"  : "The image is seared into my memory forever. A Zaraden with perfectly healthy wings down here on the ground. I called out to her, but I knew there would be no response. I knew she let herself fall.|L||L|I wish I could somehow be there to catch her. I wish I could be there to catch them all. No one deserves to be down here.",
+		"card"    : "Temporary safety bubble",
+	},
+	"I_magnetic_charm" : {
+		"name"    : "Magnetic Charm",
+		"memory"  : "I know what my sister wants more than anything else, but the problem is she wouldn't recognize flirting if it was a physical object being thrown at her.|L||L|No, that's not it. She's just convinced herself that it can't possibly happen to her.",
+		"card"    : "Attract [VAL1] helpers by dealing Dmg. or breaking parts",
+	},
+	"I_everyone" : {
+		"name"    : "Everyone",
+		"memory"  : "Join us, everyone. So we can all be nothing together.",
+		"card"    : "Helper Dmg. +[VAL1]%",
+	},
+	"I_bracelet" : {
+		"name"    : "Bracelet",
+		"memory"  : "It's such a cute band to wear around your leg. Although I'm not sure I could get used to having something like this constantly touching my skin.",
+		"card"    : "Helpers will orbit around you|L|[VAL3] Radiant Helpers",
+	},
+	"I_despair" : {
+		"name"    : "Despair",
+		"memory"  : "I only used to feel one thing, but that moment changed me forever. Who knew that one single moment could have such an impact.",
+		"card"    : "[VAL2] Blue helpers|L|Full combos give you more!",
+	},
+	"I_friend_spiral" : {
+		"name"    : "Friend Spiral",
+		"memory"  : "I found a new friend. We've actually been right next to each other for so long, but there was a wall between us. We could not see each other. We could not interact. That is, until I created the device.",
+		"card"    : "Multiply your helpers!",
+	},
+
+}

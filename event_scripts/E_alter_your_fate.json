@@ -1,0 +1,603 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+			"dialog"			: "Will you alter your fate today?",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+			"dialog"			: "I can increase your potential motes and your highest scores.",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+			"random"			: 3,
+			"dialog_rand1"		: "|wave|You have so much to sacrifice.",
+			"dialog_rand2"		: "|wave|But try not to be too greedy.",
+			"dialog_rand3"		: "|wave|I can make this more difficult for you.",
+		},
+	],
+	
+	"event_level"	: "Altered Level [VAL1]",
+	"total_roses"	: "Total Rose Medals",
+	
+	"mood_title"	: "Abyss' Power",
+	"monster_gifts"	: "Abyss' Gifts",
+	"player_gifts"	: "[NAME]'s Gifts",
+
+	"op_alter"			: "Alter Fate",
+	"op_sacrifice"		: "Sacrifice",
+	"op_upgrade"		: "Upgrades",
+	"op_leave"			: "Leave",
+	"op_dont_leave"		: "Not Yet",
+	
+	"op_gifts"			: "Take Gifts",
+	"op_battles_1"		: "1 Extra Battle",
+	"op_battles_2"		: "2 Extra Battles",
+	"op_battles_3"		: "3 Extra Battles",
+	"op_added"			: "Battle Added",
+	
+	"op_give_panic"		: "Sacrifice Panics",
+	"op_give_health"	: "Sacrifice Health",
+	"op_give_gifts"		: "Sacrifice Gifts",
+	
+	"op_power"			: "Max Power",
+	"op_quicks"			: "Quick Gifts",
+	"op_bonuses"		: "Bonus Gifts",
+	"op_tetrids"		: "Tetrid Gifts",
+	
+	
+	"comment_alter"			: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+		"dialog"	: "Make some sacrifices, and I will alter your fate.",
+	},
+	"comment_sacrifice"		: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+		"dialog"	: "Your sacrifices will give me power.",
+	},
+	"comment_upgrade"		: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+		"dialog"	: "I can use the power of |C3|Tetrids|C0| to alter your fate even further.",
+	},
+	"comment_max_level"		: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+		"dialog"	: "My power has reached its limit.",
+	},
+	"comment_leave_none"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+		"dialog"	: "I won't force you to change your fate.",
+	},
+	"comment_leave_extra"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+		"dialog"	: "Enjoy your new fate.",
+	},
+	"comment_leave_warning"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+		"dialog"	: "Are you really leaving?",
+	},
+	
+	
+	
+	"comment_low_panic"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_sad"],
+		"dialog"	: "You don't have enough panic for a worthy sacrifice.",
+	},
+	"comment_give_panic"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+		"dialog"	: "I will take all of your |C3|panic attacks|C0| as a sacrifice.",
+	},
+	"comment_give_panic_high"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+		"dialog"	: "You have a lot of |C3|panic attacks|C0| today.|L|I'll take all of them.",
+	},
+	"comment_panic_given"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+		"dialog"	: "Doesn't it feel good to release all that panic?",
+	},
+	"comment_low_health"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+		"dialog"	: "You don't have enough health for a worthy sacrifice.",
+	},
+	"comment_half_hp_error"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+		"dialog"	: "Just give me your |C3|fortifying gifts|C0| instead.",
+	},
+	"comment_give_health"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+		"dialog"	: "I will take |C3|half of your health bar|C0| as a sacrifice.",
+	},
+	"comment_give_health_high"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+		"dialog"	: "Your health bar is very long today.|L|I think I'll take |C3|half|C0| of it.",
+	},
+	"comment_health_given"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+		"dialog"	: "You didn't need that much anyways.",
+	},
+	"comment_cant_gifts"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+		"dialog"	: "How about you sacrifice something else first?",
+	},
+	"comment_give_gifts"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+		"dialog"	: "I'll take some of your gifts as a sacrifice.",
+	},
+	
+	
+	
+	"comment_gifts"			: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+		"dialog"	: "I have gifts that can alter your fate.",
+	},
+	"comment_no_gifts"		: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_sad"],
+		"dialog"	: "I have nothing left for you.",
+	},
+	"comment_extra_battles_1"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+		"dialog"	: "I can alter your fate by adding |C3|1 extra battle|C0| to your day.",
+	},
+	"comment_extra_battles"		: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+		"dialog"	: "I can alter your fate by adding |C3|[VAL1] extra battles|C0| to your day.",
+	},
+	"comment_added_battles_1"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+		"dialog"	: "Your fate has been altered with |C3|1 extra battle|C0| after you leave this place.",
+	},
+	"comment_added_battles"		: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+		"dialog"	: "Your fate has been altered with |C3|[VAL1] extra battles|C0| after you leave this place.",
+	},
+	"comment_cant_add_battle"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_sad"],
+		"dialog"	: "I need more power to do this.",
+	},
+	
+	"battle_confirm"		: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+		"dialog"	: "Will you alter your fate?",
+	},
+	"panic_confirm"		: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+		"dialog"	: "Give me all of your panics?",
+	},
+	"health_confirm"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+		"dialog"	: "Give me half of your max health?",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_sad"],
+		"dialog"	: "Are you leaving?",
+	},
+	
+	"panics_given" 		: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+			"dialog"			: "Isn't it a relief to let go of all that panic?",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+			"dialog"			: "|wave|You didn't need it anyways.",
+		},
+	],
+	"a_lot_of_panics_given" 		: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+			"dialog"			: "Isn't it a relief to let go of all that panic?",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_sad"],
+			"dialog"			: "What?     Were you expecting me to gain more power than this?",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+			"dialog"			: "Aren't we being so greedy right now?",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+			"dialog"			: "I bet you have a lot of |C3|panic gifts|C0| that just became perfect sacrifice fodder.",
+		},
+	],
+	"health_given" 		: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+			"dialog"			: "Such a worthy sacrifice.",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+			"dialog"			: "It won't matter if you never get hit.",
+		},
+	],
+	"battle_added" 		: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+			"random"			: 3,
+			"dialog_rand1"		: "Your future has been shifted towards more battles and more love.",
+			"dialog_rand2"		: "You are now destined for even more encounters with monsters.",
+			"dialog_rand3"		: "There is more love in your future.|L||!|If you survive the extra battles.",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+			"random"			: 3,
+			"dialog_rand1"		: "You must love a challenge.",
+			"dialog_rand2"		: "You are so powerful just for accepting the challenge.",
+			"dialog_rand3"		: "More monsters means more motes to extract.",
+		},
+	],
+	
+	
+	
+	
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+		"dialog"	: "You may take this gift.",
+	},
+	"comment_take_unknown"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+		"dialog"	: "Take this at your own risk.",
+	},
+	"comment_take_karma"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_sad"],
+		"dialog"	: "You got so many tetrids from gifts today.|L|I couldn't find enough to bring you myself.",
+	},
+	"comment_take_over"		: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_sad"],
+		"dialog"	: "You must sacrifice more for this.",
+	},
+	"comment_quick_limit"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_sad"],
+		"dialog"	: "You can't carry this much.",
+	},
+	"buy_confirm"		: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+		"dialog"	: "Are you sure about this?",
+	},
+	"gift_taken" 		: [
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+			"random"			: 4,
+			"dialog_rand1"		: "You have earned this through your sacrifice.",
+			"dialog_rand2"		: "Your fate has been altered.",
+			"dialog_rand3"		: "May fate roll in your favor.",
+			"dialog_rand4"		: "You are in charge of your destiny.",
+		}
+	],
+	"tetrid_taken" 		: [
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+			"random"			: 3,
+			"dialog_rand1"		: "Such a beautiful score.",
+			"dialog_rand2"		: "|wave|Look at that pile of motes you have.",
+			"dialog_rand3"		: "Every single mote counts.",
+		}
+	],
+	
+	
+	
+	
+	
+	"comment_give_normal"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+		"dialog"	: "I will accept this sacrifice.",
+	},
+	"comment_give_traded"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+		"dialog"	: "You already traded for this gift, and you are still willing to sacrifice it?",
+	},
+	"comment_give_panic_error"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+		"dialog"	: "I will need to take all of your |C3|panic attacks|C0| before this can become a worthy sacrifice.",
+	},
+	"comment_give_rank_error"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+		"dialog"	: "You have many |C3|Wonderful Gifts|C0| today.|L|Let's start with one of those.",
+	},
+	"comment_give_quick"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_angry"],
+		"dialog"	: "This wouldn't be much of a sacrifice.",
+	},
+	"comment_give_starter"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_sad"],
+		"dialog"	: "You are destined to keep this.|L|I can't take it.",
+	},
+	"give_confirm"			: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+		"dialog"	: "Sacrifice this gift?",
+	},
+	"gift_given" 		: [
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+			"random"			: 7,
+			"dialog_rand1"		: "You might be making things harder for yourself.",
+			"dialog_rand2"		: "I will accept this offering.",
+			"dialog_rand3"		: "You probably didn't need that anyways.",
+			"dialog_rand4"		: "The rest of your day may become more difficult.",
+			"dialog_rand5"		: "Do not regret your decision.",
+			"dialog_rand6"		: "Your fate is so malleable.",
+			"dialog_rand7"		: "Let's see how adaptable you've become.",
+		},
+	],
+
+
+
+
+	
+	"comment_upgrade_power"			: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+		"dialog"	: "I can alter your fate with |C3|[VAL1] Units of Power,|C0| but this can be increased with more tetrids",
+	},
+	"comment_upgrade_power_maxed"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+		"dialog"	: "I can alter your fate with |C3|[VAL1] Units of Power|C0||L|This is my absolute limit.",
+	},
+	
+	"comment_upgrade_quicks"		: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+		"dialog"	: "I have |C3|[VAL1] Quick Gifts|C0| for you, but with some more tetrids I can always bring one more.",
+	},
+	"comment_upgrade_quicks_maxed"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+		"dialog"	: "I will always have |C3|[VAL1] Quick Gifts|C0| for you to take from.",
+	},
+	
+	"comment_upgrade_bonuses_0"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+		"dialog"	: "With the power of tetrids, I will be able to bring a |C3|Bonus Gift|C0| for you.",
+	},
+	"comment_upgrade_bonuses_1"		: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+		"dialog"	: "I have |C3|1 Bonus Gift|C0| for you, but with some more tetrids I can always bring another.",
+	},
+	"comment_upgrade_bonuses"		: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+		"dialog"	: "I have |C3|[VAL1] Bonus Gifts|C0| for you, but with some more tetrids I can always bring one more.",
+	},
+	"comment_upgrade_bonuses_maxed"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+		"dialog"	: "I will always have |C3|[VAL1] Bonus Gifts|C0| for you to take from.",
+	},
+	
+	"comment_upgrade_tetrids_0"		: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_sad"],
+		"dialog"	: "I can increase your score by bringing you a |C3|Tetrid Bonus Gift,|C0| but I will need a lot of tetrid power to do this.",
+	},
+	"comment_upgrade_tetrids_1"		: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+		"dialog"	: "I have |C3|1 Tetrid Bonus Gift|C0| for you, but I can always bring another one.",
+	},
+	"comment_upgrade_tetrids"		: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+		"dialog"	: "I have |C3|[VAL1] Tetrid Bonus Gifts|C0| for you, but I can always bring one more.",
+	},
+	"comment_upgrade_tetrids_maxed"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+		"dialog"	: "I have |C3|[VAL1] Tetrid Bonus Gifts|C0| for you.|L|This is the limit of my power.",
+	},
+	
+	
+	"comment_upgrade_fail"			: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_sad"],
+		"dialog"	: "You need to receive more |C3|Rose Medals|C0| from monsters, so that I may further alter your fate.",
+	},
+	
+	"upgrade_power" 			: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+			"dialog"			: "I will be able to use more power to alter your day.",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+			"dialog"			: "Think of how high your scores can become.",
+		},
+	],
+	"upgrade_quicks" 			: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+			"dialog"			: "I will bring you one more |C3|Quick Gift|C0| every day.",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+			"dialog"			: "One of the many ways that I can alter your fate.",
+		},
+	],
+	"upgrade_bonuses_first" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+			"dialog"			: "I will bring you a |C3|Bonus Gift|C0| next time.",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+			"dialog"			: "And every day after that.",
+		},
+	],
+	"upgrade_bonuses" 			: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+			"dialog"			: "I will bring you one more |C3|Bonus Gift|C0| every day.",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+			"dialog"			: "You will have so many choices to alter your fate.",
+		},
+	],
+	"upgrade_tetrids_first" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+			"dialog"			: "I will bring you a |C3|Tetrid Bonus Gift|C0| next time.",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+			"dialog"			: "You will become a mountain of motes in no time.",
+		},
+	],
+	"upgrade_tetrids" 			: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+			"dialog"			: "I will bring you one more |C3|Tetrid Bonus Gift|C0| every day.",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+			"dialog"			: "You will become a star of motes in no time.",
+		},
+	],
+	
+	
+	"green_comment"		: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_sad"],
+		"dialog"	: "These feel so gross, or is that me?",
+	},
+	"red_comment"		: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_angry"],
+		"dialog"	: "|shake|I'm fine!|norm||L|Just give them to me.",
+	},
+	"yellow_comment"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+		"dialog"	: "I don't even want to think about it.",
+	},
+	"blue_comment"		: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+		"dialog"	: "Can I really help you with these?|L|What if I make your fate worse?",
+	},
+	"orange_comment"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_sad"],
+		"dialog"	: "These feel like me, like broken glass.",
+	},
+	"purple_comment"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+		"dialog"	: "Emptiness from The Void herself.|L||C3|These give me the most power.",
+	},
+	"radiant_comment"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+		"dialog"	: "|shake|So much power!|norm||L|And yet, you handle it like it's nothing.",
+	},
+	"upgrade_confirm"	: {
+		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+		"dialog"	: "Will you allow me to have these?",
+	},
+
+
+
+	"leave_warning" : [
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+			"dialog"			: "You gave me this power and you aren't going to make me use all of it?",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+			"dialog"			: "You can't take it with you, you know?",
+		},
+	],
+
+	"leave_blank" : [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "There will be |wave|even more|norm| monsters to love?",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+			"dialog"			: "|wave|That's right.",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_angry"],
+			"dialog"			: "Try not to get |shake|killed!",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "Oh, don't worry about that.|!||L||wave|I love you!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+			"dialog"			: "This lady is fearless.",
+		},
+	],
+	
+	"leave_defect" : [
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
+			"dialog"			: "There will be even more monsters?|L||!|I hope I can handle this.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "That just means more monsters to grace with my presence.",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+			"dialog"			: "This little one glows so brightly.",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+			"dialog"			: "You can blind them before they even attack.",
+		},
+	],
+	
+	"leave_twins" : [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "You know which monster Sunshine is going to kiss?",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+			"dialog"			: "|wave|I DO know.",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
+			"dialog"			: "|shake|What?!|norm||!||L|That's not-",
+		},
+		{
+			"character"			: ["VOICE_none", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_surprised"],
+			"dialog"			: "Where'd she go?",
+		},
+	],
+	
+	"leave_devil" : [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
+			"dialog"			: "This is just the type of challenge I was looking for.",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+			"dialog"			: "|wave|Are you sure you can handle this?",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"dialog"			: "Are you sure you can handle |shake|THIS?",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+			"dialog"			: "A few extra monsters is no problem for you.",
+		},
+	],
+
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+			"dialog"			: "Your fate is always in your hands.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+			"dialog"			: "Just look at all that you've done for us already.",
+		},
+	],
+
+}

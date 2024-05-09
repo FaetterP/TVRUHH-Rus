@@ -1,0 +1,385 @@
+{
+
+	"Q_small_vitality" : {
+		"name"    : "Small Vitality",
+		"memory"  : "//Heart-1602 is recovered from Pit-13|L|Recovered by: Lutekna|L||L|//Heart-1602 is injected with Shamble extract|L|Status: Feared|L||L|//Heart-1602 has begun to generate green motes|L|Status: Feared",
+		"card"    : "Max Health +[VAL1]|L|Heal [VAL3]%",
+	},
+	"Q_large_vitality" : {
+		"name"    : "Large Vitality",
+		"memory"  : "//Heart-1473 is recovered from Pit-13|L|Recovered by: Solara|L||L|//Heart-1473 is injected with Zaramech fuel|L|Status: Feared|L||L|//Heart-1473 has begun to generate blue motes|L|Status: Feared",
+		"card"    : "Max Health +[VAL1]|L|Heal [VAL3]%",
+	},
+	"Q_super_vitality" : {
+		"name"    : "Super Vitality",
+		"memory"  : "//Heart-1936 is recovered from Pit-13|L|Recovered by: Lutekna|L||L|//Heart-1936 is injected with Serum 31|L|Status: Cracked|L||L|//Heart-1936 is still not beating after 20 hours|L|Status: Failure",
+		"card"    : "Max Health +[VAL1]|L|Heal [VAL3]%",
+	},
+	"Q_quicklove_one" : {
+		"name"    : "Quicklove+",
+		"memory"  : "I can use this to restart a heart that seems far beyond salvageable. But they are never the same.",
+		"card"    : "All Damage +[VAL1]%",
+	},
+	"Q_quicklove_two" : {
+		"name"    : "Quicklove++",
+		"memory"  : "The Eyeric Glyph monsters constantly generate stone hearts. I finally got my hands on one and I was so excited to finally run some tests on it.|L||L|That is until... I discovered that it had the same genetic material as a Zaraden.",
+		"card"    : "All Damage +[VAL1]%",
+	},
+	"Q_quicklove_three" : {
+		"name"    : "Quicklove+++",
+		"memory"  : "Not only was this genetic material 100% Zaraden, it was 100% HER.|L|It was exactly her.|L||L|What does this mean?|L|Can I bring her back?|L|With this, Serum 31 is almost ready.",
+		"card"    : "All Damage +[VAL1]%",
+	},
+	"Q_water_glyph" : {
+		"name"    : "Water Glyph",
+		"memory"  : "|C3||ah||teh||la| (Attela) |C0|Rain Drop|L||C3||ah||tra| (Ahtra) |C0|Rain|L||C3||ah||tra||rah| (Ahtrara) |C0|Heavy Rain|L||C3||ah||tra||-||rah||lin| (Ahtra Ralin) |C0|Torrent|L||C3||ah||xai| (Axai) |C0|Darkness",
+		"card"    : "Gain [VAL1] reserve health after every battle",
+	},
+	"Q_blood_glyph" : {
+		"name"    : "Blood Glyph",
+		"memory"  : "|C3||ehv||ren| (Evren) |C0|Life-form|L||C3||la||ren| (Lahren) |C0|Cycle|L||C3||xai||ren| (Xiren) |C0|Inspired|L||C3||soh||ren| (Soren) |C0|Passion",
+		"card"    : "Crit. Rate +[VAL1]%|L|Gain [VAL3] reserve health",
+	},
+	"Q_love_dye" : {
+		"name"    : "Love Dye",
+		"memory"  : "Some monsters can attack with photons. Don't think for a moment that this is as simple as shining a light on you. These are focused beams of pure radiation.|L||L|Every monster is different, but there is a good chance that a radiant monster will not like the void elements.",
+		"card"    : "Radiant Def. +[VAL1]|L|Heal [VAL3]%",
+	},
+	"Q_dark_dye" : {
+		"name"    : "Dark Dye",
+		"memory"  : "Some monsters can attack with void. This is a little more complicated than it seems. It's not that they are attacking with nothing... well actually that is what they are doing. You see, void is very very cold and empty and it always wants to be filled. Because of this, void can freeze anything it touches and pull everything into itself.|L||L|A void monster is unlikely to be affected by heat, but light can easily tear through a void.",
+		"card"    : "Void Def. +[VAL1]|L|Heal [VAL3]%",
+	},
+	"Q_warm_dye" : {
+		"name"    : "Warm Dye",
+		"memory"  : "There are monsters that can attack with heat. It should go without saying, but hot is bad for you. Do not touch!|L||L|Void elements can usually extinguish the flames of a burning monster.",
+		"card"    : "Burn Def. +[VAL1]|L|Heal [VAL3]%",
+	},
+	"Q_bright_dye" : {
+		"name"    : "Bright Dye",
+		"memory"  : "Some monsters will try to electrocute their victims. Running enough electricity through a heart will stop it from beating. It's usually not good for your long term health if your heart stops beating.|L||L|Many Zaramechs have some kind of electrical attack, but their circuits can't handle being overloaded with electricity themselves.",
+		"card"    : "Zap Def. +[VAL1]|L|Heal [VAL3]%",
+	},
+	"Q_murky_dye" : {
+		"name"    : "Murky Dye",
+		"memory"  : "Other monsters can attack with toxic chemicals. I got a few samples and used them to dissolve all sorts of fun stuff. Obviously, I can't test them on a Zaraden, but I did get curious about their effects, so I searched through all the records of monster attacks that I could find. I searched for hours, but I could not actually find a single confirmed fatality. We always hear the stories, but the data does not back it up. Very interesting...",
+		"card"    : "Toxic Def. +[VAL1]|L|Heal [VAL3]%",
+	},
+	"Q_lovestruck" : {
+		"name"    : "Lovestruck",
+		"memory"  : "It's only sound.|L|It can't hurt you.|L|It's only sound.|L|It can't hurt you.|L|It's only sound.|L|It can't hurt you.|L||L||shake|Ahhhh!",
+		"card"    : "Massive Panics|L|Panic Dmg. +[VAL2]|L|+[VAL4] panic polyp",
+	},
+	
+	
+	
+	
+	"Q_glow_tonic" : {
+		"name"    : "Glow Tonic",
+		"memory"  : "You drank the glowing one?|L|Good luck sleeping tonight. If your glowing skin doesn't keep you awake, then it will be the fact that you keep attracting the glow mites.",
+		"card"    : "All standard attacks become Radiant Dmg.",
+	},
+	"Q_cold_tonic" : {
+		"name"    : "Cold Tonic",
+		"memory"  : "Brain freeze?|L|Try frostbite on the back of your eyeballs!",
+		"card"    : "All standard attacks become Void Dmg.",
+	},
+	"Q_warm_tonic" : {
+		"name"    : "Warm Tonic",
+		"memory"  : "This will make you feel warm even in the middle of a blizzard.|L||L|Wait! That's the one with magma in it!",
+		"card"    : "All standard attacks become Burn Dmg.",
+	},
+	"Q_spark_tonic" : {
+		"name"    : "Spark Tonic",
+		"memory"  : "How many Zaraden does it take to become a lightbulb?|L||L|Seriously, don't drink that. You will die.",
+		"card"    : "All standard attacks become Zap Dmg.",
+	},
+	"Q_bitter_tonic" : {
+		"name"    : "Bitter Tonic",
+		"memory"  : "I put a bunch of random nonsense into that one. I don't know what it would do to you, but I poured it on a plant once.|L|It yelled at me.",
+		"card"    : "All standard attacks become Toxic Dmg.",
+	},
+	"Q_glow_ichor" : {
+		"name"    : "Glow Ichor",
+		"memory"  : "I'm afraid of showing love.|L|What if it's too much?",
+		"card"    : "Standard attacks become Radiant|L|[VAL1] Radiant Helpers",
+	},
+	"Q_cold_ichor" : {
+		"name"    : "Cold Ichor",
+		"memory"  : "I'm afraid of being alone.|L|It's much too cold.",
+		"card"    : "Standard attacks become Void|L|[VAL1] Void Helpers",
+	},
+	"Q_warm_ichor" : {
+		"name"    : "Warm Ichor",
+		"memory"  : "I'm afraid of being touched.|L|It has hurt me before.",
+		"card"    : "Standard attacks become Burn|L|[VAL1] Burn Helpers",
+	},
+	"Q_spark_ichor" : {
+		"name"    : "Spark Ichor",
+		"memory"  : "I'm afraid to show myself.|L|What if they don't like me?",
+		"card"    : "Standard attacks become Zap|L|[VAL1] Zap Helpers",
+	},
+	"Q_bitter_ichor" : {
+		"name"    : "Bitter Ichor",
+		"memory"  : "I'm afraid of love.|L|What if I don't deserve any?",
+		"card"    : "Standard attacks become Toxic|L|[VAL1] Toxic Helpers",
+	},
+	"Q_debris" : {
+		"name"    : "Debris",
+		"memory"  : "It's just a piece of random junk that fell from space. It can't possibly grant you a wish.|L||L|Let's try anyways.",
+		"card"    : "Combo timer|L|+1 second",
+	},
+	"Q_staples" : {
+		"name"    : "Staples",
+		"memory"  : "Do whatever it takes to hold it together!|L||L|I always knew you could do it!",
+		"card"    : "Survive [VAL1] fatal hits with 1 hp",
+	},
+	"Q_warp_synapse" : {
+		"name"    : "Warp Synapse",
+		"memory"  : "Warp synapses are the simplest type of synapse since they can only be used to move objects between 2 points in physical space. They usually work in both directions, but they can also be one way. Both Shambles and Zaramechs have been observed manipulating them, seemingly without an external source of power. We can create warp synapses with our own technology, but they require such extreme amounts of power to maintain.",
+		"card"    : "You can warp across the screen",
+	},
+	"Q_loop" : {
+		"name"    : "Loop",
+		"memory"  : "Do you ever wish you could go back in time and do something differently?|L||L|Yeah, neither do I.",
+		"card"    : "Your shots warp back around",
+	},
+	"Q_armor_heart" : {
+		"name"    : "Armor Heart",
+		"memory"  : "I'll always protect my sister! She needs me to be there! No monsters are going to get to her while I'm around!",
+		"card"    : "Block the first hit each battle",
+	},
+	"Q_soul_heart" : {
+		"name"    : "Soul Heart",
+		"memory"  : "When all around you is anxiety,|L|When all around you is frustration,|L|Take a moment,|L|Focus your heartbeat,|L|You are still alive.",
+		"card"    : "Regenerate health during battle",
+	},
+	"Q_rage" : {
+		"name"    : "Rage",
+		"memory"  : "Sometimes we just gotta let our rage out.|L|Go on. Hit that tower wall.|L||L|Give it a nice four finger love punch!",
+		"card"    : "Burning aura",
+	},
+	"Q_terror" : {
+		"name"    : "Terror",
+		"memory"  : "From the other side, a terror to behold. Pure affection will be unavoidable. Every broken monster part will know, that their opponent had to be so lovable. Take a last look around while you're afraid. She's an indestructible, master of love!",
+		"card"    : "Automatic panic attacks",
+	},
+	
+	
+	
+	
+	"Q_single_polyp" : {
+		"name"    : "Single Polyp",
+		"memory"  : "It suddenly gets harder to breathe. My breathing gets faster and faster. Deeper and deeper. Anything to keep that precious air from leaving me.",
+		"card"    : "Generate a panic during battle",
+	},
+	"Q_double_polyp" : {
+		"name"    : "Double Polyp",
+		"memory"  : "My breathing gets faster, but it's no use. My throat has closed completely, I imagine.|L|My vision narrows as I look for any sort of escape. But there is nowhere to escape to.",
+		"card"    : "Generate [VAL1] panics during battle",
+	},
+	"Q_triple_polyp" : {
+		"name"    : "Triple Polyp",
+		"memory"  : "Imagine a bubble surrounding you. All the air in it just for you. Take a deep breath, even if you think it's the last one you can possibly take.|L|Exhale slowly.|L|Do not worry. The bubble will not let you down.|L||L|Breath returns to you.",
+		"card"    : "Generate [VAL1] panics during battle",
+	},
+	"Q_nightmare" : {
+		"name"    : "Nightmare",
+		"memory"  : "I had that nightmare again. The one where she finally figures out that I am a wingless. Then she hurts me like the other Zaraden.|L||L|She can clearly see that I'm wingless. Why does she come to see me so often? When is she going to hurt me?",
+		"card"    : "Gain a panic after the next three battles",
+	},
+	"Q_chaos_glyph" : {
+		"name"    : "Chaos Glyph",
+		"memory"  : "|C3||xai||lin| (Xailin) |C0|Flashing|L||C3||rah||lin| (Rahlin) |C0|Disaster|L||C3||lin||ze| (Linze) |C0|Illness|L||C3||li||lin| (Leelin) |C0|Violent|L||C3||nu||lin| (Nulin) |C0|Calm",
+		"card"    : "Random bonus effect after the next 3 battles",
+	},
+	"Q_chrome_heart" : {
+		"name"    : "Chrome Heart",
+		"memory"  : "When I see my reflection,|L|I hear a voice.|L|It knows how to destroy me.|L|It sounds just like me,|L|But that isn't me.",
+		"card"    : "1 Chrome Heart that protects your combo",
+	},
+	"Q_chrome_duo" : {
+		"name"    : "Chrome Duo",
+		"memory"  : "That's not me.|L|Is that me?|L|I can't recognize myself.|L|I've become someone else.|L|I was me,|L|But now she's gone.",
+		"card"    : "[VAL1] Chrome Hearts that protect your combo",
+	},
+	"Q_chrome_trio" : {
+		"name"    : "Chrome Trio",
+		"memory"  : "You think you're the one in control anymore? Take a look at your reflection!|L||shake|HahAhaHaAhaHAahaAhaHA",
+		"card"    : "[VAL1] Chrome Hearts that protect your combo",
+	},
+	"Q_inspire1" : {
+		"name"    : "Inspire",
+		"memory"  : "I want to be able to look up at the stars again. I want to paint the night sky again. The stars inspire me. Especially now that I know more about them. They are so much bigger and farther away than I ever knew was possible.",
+		"card"    : "All Damage +[VAL1]% after the next three battles",
+	},
+	"Q_inspire2" : {
+		"name"    : "Extra Inspire",
+		"memory"  : "I want to see more of Eyeris. She told me there is a place with so many mountains that go on as far as you can see. The sunset radiates such lovely colors upon them.|L||L|Without actually seeing it, I can only paint my best guess.",
+		"card"    : "All Damage +[VAL1]% after the next three battles",
+	},
+	"Q_inspire3" : {
+		"name"    : "Super Inspire",
+		"memory"  : "I had to paint this as fast as I could, so that I'll never forget. This was my view when she took me into the sky!",
+		"card"    : "All Damage +[VAL1]% after the next three battles",
+	},
+	"Q_hearten1" : {
+		"name"    : "Hearten",
+		"memory"  : "I'm painting more than ever! She loves all of it. I need to have a new one ready for the next time she visits.|L||L|I've never had someone else look at my art. At least, not since I was a child.",
+		"card"    : "Max Health +[VAL1] after the next two battles",
+	},
+	"Q_hearten2" : {
+		"name"    : "Double Hearten",
+		"memory"  : "I want to see the snow covered mountains. She said it's so much colder than anything I've ever felt before. It would actually hurt my skin to be there without heavy clothing.|L||L|I don't think I've ever seen clothes before. It's rare for anyone to wear them in this climate.",
+		"card"    : "Max Health +[VAL1] after the next four battles",
+	},
+	"Q_hearten3" : {
+		"name"    : "Super Hearten",
+		"memory"  : "I'm going to climb that tower. I'll do it at night, so no one will see me. I need to see her again.|L||L|No! She obviously never wants to see me again...|L|But she promised...|L|She's hurt me so much.|L|I love her.",
+		"card"    : "Max Health +[VAL1] after the next three battles",
+	},
+	
+	
+	
+	
+	"Q_dual_stones" : {
+		"name"    : "Dual Stones",
+		"memory"  : "I had never seen a Glyph monster project her zaranoid form. She appeared to be a stone elemental Glyph. She held her hands out and printed a stone heart out of nothing but air!|L||L|I tried to sneak away, but I tripped and fell over something. It was another stone heart...",
+		"card"    : "[VAL1] random helper stones",
+	},
+	"Q_triple_stones" : {
+		"name"    : "Triple Stones",
+		"memory"  : "Boulders were crashing down all around me as I ran. Trees were falling over. My holowings would not activate. I knew that I was in trouble.|L||L|I turned around and pleaded,|L|\"I didn't mean to touch it, I'm sorry!\"",
+		"card"    : "[VAL1] random helper stones",
+	},
+	"Q_pile_of_stones" : {
+		"name"    : "Pile of Stones",
+		"memory"  : "I was so scared, but that's when I noticed her eyes were pouring like faucets. Was she crying?|L|She came closer to me. She grabbed my hand and placed a stone heart in it. Then she put one finger on my chest right where my heart is. Her eyes were still pouring, but she had a slight smile on her face. Before I could react, there was a flash. She was gone.",
+		"card"    : "[VAL1] random helper stones",
+	},
+	"Q_security" : {
+		"name"    : "Security",
+		"memory"  : "These friends will always have your back.",
+		"card"    : "3 helpers that fire backwards",
+	},
+	"Q_heart_shard" : {
+		"name"    : "Heart Shard",
+		"memory"  : "I loved every day that she came down to see me.",
+		"card"    : "Temporary radiant helper",
+	},
+	"Q_null_shard" : {
+		"name"    : "Null Shard",
+		"memory"  : "I know she couldn't visit me every day. She had to keep it secret.",
+		"card"    : "Temporary void helper",
+	},
+	"Q_heat_shard" : {
+		"name"    : "Heat Shard",
+		"memory"  : "I hadn't felt the warmth of another Zaraden in such a long time before I met her.",
+		"card"    : "Temporary burn helper",
+	},
+	"Q_spark_shard" : {
+		"name"    : "Spark Shard",
+		"memory"  : "It was so exciting when she brought me gifts. They were a small glimpse into that world above.",
+		"card"    : "Temporary zap helper",
+	},
+	"Q_blight_shard" : {
+		"name"    : "Blight Shard",
+		"memory"  : "On some days, she would stay with me even though I was feeling sick.",
+		"card"    : "Temporary toxic helper",
+	},
+	"Q_all_shard" : {
+		"name"    : "All Shard",
+		"memory"  : "What if I could climb a tower all on my own? What would they think of me up there? I wish I could go visit her instead.",
+		"card"    : "Temporary helper of all elements",
+	},
+	
+	
+	
+	
+	"Q_candle" : {
+		"name"    : "Candle",
+		"memory"  : "I can always tell when they are around. They look at me from just out of sight. They stare at me from the shadows. They even follow me sometimes. It can be scary, but why do they hide from me? Are they afraid of me?",
+		"card"    : "Reveal [VAL1] extra monster choices",
+	},
+	"Q_nightlight" : {
+		"name"    : "Nightlight",
+		"memory"  : "I caught one of those eyeballed flowers looking right at me. In the moment, I felt the courage to stare back at her. I could sense a longing in that eye. She began to move toward me while passing by a nightlight mushroom. I thought I could see a Zaraden's arm in the light.|L||L|But I just HAD to sneeze at that moment. By the time my eyes opened again, she was gone.",
+		"card"    : "Reveal [VAL1] extra monster choices for 3 battles",
+	},
+	"Q_broken_key" : {
+		"name"    : "Broken Key",
+		"memory"  : "I can't let anyone else in.|L|I just can't.|L||L|How long until they hurt me too?|L|There is no reason to try again.",
+		"card"    : "All challenges become simple",
+	},
+	"Q_broken_lock" : {
+		"name"    : "Broken Lock",
+		"memory"  : "That's okay, I don't think I really need this anymore. There was never a reason to put a lock on it in the first place.",
+		"card"    : "All challenges become simple for 3 battles",
+	},
+	"Q_rest" : {
+		"name"    : "Rest",
+		"memory"  : "Drink some water, okay?|L|I love you.",
+		"card"    : "Reroll all monster cards",
+	},
+	"Q_nap" : {
+		"name"    : "Nap",
+		"memory"  : "It was hard to sleep that night. It was so cold and I wasn't used to it yet. But when I woke up, there were a few strange rocks around me. They were carved in the shape of hearts. They were really warm. It felt really nice. Who left those around me?",
+		"card"    : "Lower base level by [VAL1] and reroll monsters",
+	},
+	"Q_snooze" : {
+		"name"    : "Snooze",
+		"memory"  : "I had that nightmare again. The one where I wake up and she is gone. I look all over for her, but I slowly realize that she finally flew away without me.|L||L|I don't know what I would do without her.",
+		"card"    : "Lower base level by [VAL1] and reroll monsters",
+	},
+	"Q_green_photo" : {
+		"name"    : "Green Photo",
+		"memory"  : "Wow wow, she's so pretty!|L|I got that green lady with the purple hair. Look at that cute face! She was very mad at me, hehehe, but she was no match for the speed of light.|L||L|Don't tell the others, but she's my favorite.|L|I want to touch her face with my face. Why do I want to do that? I don't know!|L|I wish I could talk to her.",
+		"card"    : "Reduce attack speed for all monsters",
+	},
+	"Q_red_photo" : {
+		"name"    : "Red Photo",
+		"memory"  : "I got that hot lava noodle! I got her just as she came out of the lava, but she got scared and didn't come back out again. Am I really that scary?|L||L|Where should I hide this one? I hope Joule finds it, hehehe.",
+		"card"    : "Reduce attack damage for all monsters",
+	},
+	"Q_blue_photo" : {
+		"name"    : "Blue Photo",
+		"memory"  : "I got that sad robot lady. The crack on her face makes her look sad. I see her walking around the same place almost every day. She gets really mad at me if I try to move into her walking area.|L||L|I took the photo from just outside of her perimeter. She didn't even react at all. She only stared at me. I stared back for a little bit, but then I got scared and ran away.",
+		"card"    : "Reduce fear amount for all monsters",
+	},
+	"Q_dark_photo" : {
+		"name"    : "Dark Photo",
+		"memory"  : "Wow wow, I finally got the invisible lady!|L|She is so hard to see, I wasn't even sure if she was real. All of her photos would come out blank.|L||L|This time, I tried sending some extra ultraviolet beams at her. She lit up blue and I finally got the photo! It was so cold around her, like she was made of ice or something.|L|Hmm, she looks so familiar.",
+		"card"    : "Greatly reduce power for all monsters",
+	},
+	"Q_emerald_luck" : {
+		"name"    : "Emerald Luck",
+		"memory"  : "It doesn't matter what I get. I don't deserve anything anyways.",
+		"card"    : "Reroll all gifts|L|Raise monster attack speed",
+	},
+	"Q_ruby_luck" : {
+		"name"    : "Ruby Luck",
+		"memory"  : "Why can't I ever have what I want? Is it too much to ask for things to go my way just once?!",
+		"card"    : "Reroll all gifts|L|Raise monster attack damage",
+	},
+	"Q_sapphire_luck" : {
+		"name"    : "Sapphire Luck",
+		"memory"  : "It might be something good this time, but what if it isn't? Then I won't know what to do. Maybe I shouldn't try this then.",
+		"card"    : "Reroll all gifts|L|Raise monster fear amount",
+	},
+	"Q_topaz_destiny" : {
+		"name"    : "Topaz Destiny",
+		"memory"  : "\"You can't change your destiny.\"|L||L|That's always the excuse, isn't it? It's destiny, so why even bother trying to change it?",
+		"card"    : "Reroll all offered gifts",
+	},
+	"Q_citrine_fortune" : {
+		"name"    : "Citrine Fortune",
+		"memory"  : "You could lose anything and everything at any moment. All it takes is one accident. You lose a wing and down to The Pit you go. It should terrify you.",
+		"card"    : "Reroll everything and reveal [VAL1] extra monsters",
+	},
+	"Q_amethyst_fate" : {
+		"name"    : "Amethyst Fate",
+		"memory"  : "It is nobody's fate to be alone. Please don't try so hard to be alone. We know it hurts you so much. Ask us to help you.",
+		"card"    : "+[VAL1] karma|L|Reroll all gifts with higher luck",
+	},
+	
+}
